@@ -1,0 +1,19 @@
+{
+  "collection_timestamp": "2025-07-01T19:58:21.013490",
+  "date_range": {
+    "start_date": "2023-07-02",
+    "end_date": "2025-07-01"
+  },
+  "datasets": {
+    "monthly_treasury_statement": {
+      "rows": 515,
+      "columns": 21,
+      "size_mb": 0.56
+    },
+    "treasury_securities": {
+      "rows": 881,
+      "columns": 113,
+      "size_mb": 5.28
+    }
+  }
+}

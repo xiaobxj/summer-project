@@ -1,0 +1,27 @@
+{
+  "collection_timestamp": "2025-06-28T16:21:26.671962",
+  "date_range": {
+    "start_date": "2023-06-29",
+    "end_date": "2025-06-28"
+  },
+  "datasets": {
+    "cash_balance": {
+      "status": "empty"
+    },
+    "debt_outstanding": {
+      "status": "empty"
+    },
+    "cash_flows": {
+      "status": "empty"
+    },
+    "dts_full": {
+      "status": "empty"
+    },
+    "mts": {
+      "status": "empty"
+    },
+    "securities": {
+      "status": "empty"
+    }
+  }
+}

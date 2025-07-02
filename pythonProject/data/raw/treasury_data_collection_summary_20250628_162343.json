@@ -1,0 +1,116 @@
+{
+  "collection_timestamp": "2025-06-28T16:23:43.139181",
+  "date_range": {
+    "start_date": "2023-06-29",
+    "end_date": "2025-06-28"
+  },
+  "datasets": {
+    "cash_balance": {
+      "rows": 2000,
+      "columns": 3,
+      "date_range": {
+        "min": "2023-06-29 00:00:00",
+        "max": "2025-06-26 00:00:00"
+      },
+      "columns_list": [
+        "record_date",
+        "open_today_bal",
+        "close_today_bal"
+      ]
+    },
+    "debt_outstanding": {
+      "rows": 500,
+      "columns": 11,
+      "date_range": {
+        "min": "2023-06-29 00:00:00",
+        "max": "2025-06-26 00:00:00"
+      },
+      "columns_list": [
+        "record_date",
+        "debt_held_public_amt",
+        "intragov_hold_amt",
+        "tot_pub_debt_out_amt",
+        "src_line_nbr",
+        "record_fiscal_year",
+        "record_fiscal_quarter",
+        "record_calendar_year",
+        "record_calendar_quarter",
+        "record_calendar_month",
+        "record_calendar_day"
+      ]
+    },
+    "cash_flows": {
+      "rows": 1000,
+      "columns": 3,
+      "date_range": {
+        "min": "2023-06-29 00:00:00",
+        "max": "2025-06-26 00:00:00"
+      },
+      "columns_list": [
+        "record_date",
+        "transaction_type",
+        "transaction_today_amt"
+      ]
+    },
+    "dts_full": {
+      "rows": 2000,
+      "columns": 16,
+      "date_range": {
+        "min": "2023-06-29 00:00:00",
+        "max": "2025-06-26 00:00:00"
+      },
+      "columns_list": [
+        "record_date",
+        "account_type",
+        "close_today_bal",
+        "open_today_bal",
+        "open_month_bal",
+        "open_fiscal_year_bal",
+        "table_nbr",
+        "table_nm",
+        "sub_table_name",
+        "src_line_nbr",
+        "record_fiscal_year",
+        "record_fiscal_quarter",
+        "record_calendar_year",
+        "record_calendar_quarter",
+        "record_calendar_month",
+        "record_calendar_day"
+      ]
+    },
+    "mts": {
+      "rows": 540,
+      "columns": 21,
+      "date_range": {
+        "min": "2023-06-30 00:00:00",
+        "max": "2025-05-31 00:00:00"
+      },
+      "columns_list": [
+        "record_date",
+        "parent_id",
+        "classification_id",
+        "classification_desc",
+        "current_month_gross_rcpt_amt",
+        "current_month_gross_outly_amt",
+        "current_month_dfct_sur_amt",
+        "table_nbr",
+        "src_line_nbr",
+        "print_order_nbr",
+        "line_code_nbr",
+        "data_type_cd",
+        "record_type_cd",
+        "sequence_level_nbr",
+        "sequence_number_cd",
+        "record_fiscal_year",
+        "record_fiscal_quarter",
+        "record_calendar_year",
+        "record_calendar_quarter",
+        "record_calendar_month",
+        "record_calendar_day"
+      ]
+    },
+    "securities": {
+      "status": "empty"
+    }
+  }
+}

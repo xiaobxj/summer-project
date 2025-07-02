@@ -1,0 +1,18 @@
+{
+  "timestamp": "20250701_193140",
+  "x_date_prediction": "2025-10-04",
+  "days_to_xdate": 94,
+  "initial_conditions": {
+    "current_debt_usd": 36215806064740.36,
+    "current_cash_usd": 500000000000.0,
+    "debt_ceiling_usd": 37000000000000.0,
+    "unconventional_measures_usd": 500000000000.0
+  },
+  "final_state": {
+    "final_debt_usd": 37017276430766.44,
+    "final_cash_usd": 50000000000.0,
+    "final_headroom_usd": -17276430766.4375,
+    "total_new_debt_issued_usd": 801470366026.0399,
+    "total_unconventional_used_usd": 500000000000.00024
+  }
+}

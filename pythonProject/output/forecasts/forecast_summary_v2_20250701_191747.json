@@ -1,0 +1,36 @@
+{
+  "timestamp": "20250701_191747",
+  "forecast_period": "2025-06-27 00:00:00 to 2025-10-24 00:00:00",
+  "forecast_days": 120,
+  "models": [
+    "ARIMA",
+    "RandomForest",
+    "Ensemble"
+  ],
+  "statistics": {
+    "ARIMA": {
+      "mean": NaN,
+      "std": NaN,
+      "min": NaN,
+      "max": NaN,
+      "negative_days": 0,
+      "negative_ratio": 0.0
+    },
+    "RandomForest": {
+      "mean": -16637.099498361833,
+      "std": 16253.663663315981,
+      "min": -32647.33320990176,
+      "max": 24507.402955219488,
+      "negative_days": 104,
+      "negative_ratio": 0.8666666666666667
+    },
+    "Ensemble": {
+      "mean": -16637.099498361833,
+      "std": 16253.663663315981,
+      "min": -32647.33320990176,
+      "max": 24507.402955219488,
+      "negative_days": 104,
+      "negative_ratio": 0.8666666666666667
+    }
+  }
+}
