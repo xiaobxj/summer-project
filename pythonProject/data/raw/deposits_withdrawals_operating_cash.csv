@@ -1,0 +1,725 @@
+record_date,account_type,transaction_type,transaction_catg,transaction_catg_desc,transaction_today_amt,transaction_mtd_amt,transaction_fytd_amt,table_nbr,table_nm,src_line_nbr,record_fiscal_year,record_fiscal_quarter,record_calendar_year,record_calendar_quarter,record_calendar_month,record_calendar_day
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Agriculture (USDA) - misc,null,8,8,2810,II,Deposits and Withdrawals of Operating Cash,1,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,USDA - Commodity Credit Corporation,null,24,24,5615,II,Deposits and Withdrawals of Operating Cash,2,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,USDA - Federal Crop Insurance Corp Fund,null,0,0,3121,II,Deposits and Withdrawals of Operating Cash,3,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,USDA - Loan Repayments,null,526,526,7181,II,Deposits and Withdrawals of Operating Cash,4,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Commerce (DOC),null,22,22,3760,II,Deposits and Withdrawals of Operating Cash,5,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Defense (DoD),null,116,116,12061,II,Deposits and Withdrawals of Operating Cash,6,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Education (ED),null,238,238,47916,II,Deposits and Withdrawals of Operating Cash,7,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Energy (DOE),null,29,29,6325,II,Deposits and Withdrawals of Operating Cash,8,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Health & Human Serv (HHS) - misc,null,14,14,4827,II,Deposits and Withdrawals of Operating Cash,9,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,HHS - Marketplace Receipts,null,1,1,422,II,Deposits and Withdrawals of Operating Cash,10,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,HHS - Medicare Premiums,null,282,282,42139,II,Deposits and Withdrawals of Operating Cash,11,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Homeland Security (DHS) - misc,null,58,58,5273,II,Deposits and Withdrawals of Operating Cash,12,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DHS - Customs and Certain Excise Taxes,null,143,143,69429,II,Deposits and Withdrawals of Operating Cash,13,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DHS - Fed Emergency Mgmt Agency (FEMA),null,21,21,2475,II,Deposits and Withdrawals of Operating Cash,14,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DHS - Seized Assets,null,2,2,1508,II,Deposits and Withdrawals of Operating Cash,15,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DHS - Transportation Security Admn (TSA),null,3,3,3615,II,Deposits and Withdrawals of Operating Cash,16,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Housing & Urban Dev (HUD) - misc,null,9,9,4532,II,Deposits and Withdrawals of Operating Cash,17,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,HUD - Federal Housing Admin (FHA),null,77,77,16169,II,Deposits and Withdrawals of Operating Cash,18,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Interior (DOI) - misc,null,9,9,1410,II,Deposits and Withdrawals of Operating Cash,19,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DOI - Fish and Wildlife and Parks,null,7,7,512,II,Deposits and Withdrawals of Operating Cash,20,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DOI - Gas and Oil Lease Sales Proceeds,null,390,390,12410,II,Deposits and Withdrawals of Operating Cash,21,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DOI - Land and Minerals Management,null,2,2,679,II,Deposits and Withdrawals of Operating Cash,22,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DOI - Water and Science,null,3,3,682,II,Deposits and Withdrawals of Operating Cash,23,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Justice (DOJ),null,20,20,10256,II,Deposits and Withdrawals of Operating Cash,24,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Labor (DOL) - misc,null,3,3,404,II,Deposits and Withdrawals of Operating Cash,25,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,DOL - Pension Benefit Guaranty Corp.,null,2,2,8832,II,Deposits and Withdrawals of Operating Cash,26,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of State (DOS),null,11,11,2546,II,Deposits and Withdrawals of Operating Cash,27,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Transportation (DOT),null,102,102,1959,II,Deposits and Withdrawals of Operating Cash,28,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Treasury (TREAS) - misc,null,2,2,1976,II,Deposits and Withdrawals of Operating Cash,29,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,TREAS - Bureau of Engraving and Printing,null,0,0,911,II,Deposits and Withdrawals of Operating Cash,30,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,TREAS - Comptroller of the Currency,null,0,0,904,II,Deposits and Withdrawals of Operating Cash,31,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,TREAS - Federal Financing Bank,null,7,7,1633,II,Deposits and Withdrawals of Operating Cash,32,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,TREAS - GSE Proceeds,null,1,1,4865,II,Deposits and Withdrawals of Operating Cash,33,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,TREAS - United States Mint,null,4,4,3070,II,Deposits and Withdrawals of Operating Cash,34,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Corporate Income,null,286,286,406737,II,Deposits and Withdrawals of Operating Cash,35,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Estate and Gift,null,35,35,20245,II,Deposits and Withdrawals of Operating Cash,36,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Federal Unemployment (FUTA),null,4,4,7373,II,Deposits and Withdrawals of Operating Cash,37,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,"Taxes - IRS Collected Estate, Gift, misc",null,4,4,5153,II,Deposits and Withdrawals of Operating Cash,38,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Miscellaneous Excise,null,27,27,65640,II,Deposits and Withdrawals of Operating Cash,39,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Electronic,null,742,742,498573,II,Deposits and Withdrawals of Operating Cash,40,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Other,null,493,493,397640,II,Deposits and Withdrawals of Operating Cash,41,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Railroad Retirement,null,52,52,5173,II,Deposits and Withdrawals of Operating Cash,42,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Taxes - Withheld Individual/FICA,null,39546,39546,2496282,II,Deposits and Withdrawals of Operating Cash,43,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Dept of Veterans Affairs (VA),null,34,34,5594,II,Deposits and Withdrawals of Operating Cash,44,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,District of Columbia,null,0,0,283,II,Deposits and Withdrawals of Operating Cash,45,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Environmental Protection Agency (EPA),null,7,7,386,II,Deposits and Withdrawals of Operating Cash,46,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Export-Import Bank,null,0,0,1377,II,Deposits and Withdrawals of Operating Cash,47,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Federal Communications Commission (FCC),null,1,1,1237,II,Deposits and Withdrawals of Operating Cash,48,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,FCC - Universal Service Fund,null,3,3,6300,II,Deposits and Withdrawals of Operating Cash,49,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Federal Deposit Insurance Corp (FDIC),null,0,0,62426,II,Deposits and Withdrawals of Operating Cash,50,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Federal Reserve Earnings,null,0,0,2163,II,Deposits and Withdrawals of Operating Cash,51,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Federal Retirement Thrift Savings Plan,null,211,211,24869,II,Deposits and Withdrawals of Operating Cash,52,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Federal Trade Commission (FTC),null,3,3,502,II,Deposits and Withdrawals of Operating Cash,53,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,General Services Administration (GSA),null,15,15,2064,II,Deposits and Withdrawals of Operating Cash,54,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Independent Agencies - misc,null,24,24,3812,II,Deposits and Withdrawals of Operating Cash,55,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,International Monetary Fund (IMF),null,20,20,7292,II,Deposits and Withdrawals of Operating Cash,56,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Int'l Assistance Programs (IAP) - misc,null,0,0,4,II,Deposits and Withdrawals of Operating Cash,57,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,IAP - Agency for Int'l Development (AID),null,3,3,136,II,Deposits and Withdrawals of Operating Cash,58,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,IAP - Foreign Military Sales,null,1957,1957,39085,II,Deposits and Withdrawals of Operating Cash,59,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,IAP - US Int'l Devlop Finance Corp (DFC),null,3,3,1635,II,Deposits and Withdrawals of Operating Cash,60,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Judicial Branch - Courts,null,4,4,1681,II,Deposits and Withdrawals of Operating Cash,61,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Legislative Branch - misc,null,1,1,44,II,Deposits and Withdrawals of Operating Cash,62,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Legislative Branch - Library of Congress,null,0,0,158,II,Deposits and Withdrawals of Operating Cash,63,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,National Credit Union Admin (NCUA),null,0,0,931,II,Deposits and Withdrawals of Operating Cash,64,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,National Science Foundation (NSF),null,0,0,64,II,Deposits and Withdrawals of Operating Cash,65,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Office of Personnel Mgmt (OPM) - misc,null,0,0,6,II,Deposits and Withdrawals of Operating Cash,66,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,OPM - Federal Employee Insurance Receipt,null,2,2,3369,II,Deposits and Withdrawals of Operating Cash,67,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,RRB - Natl Railroad Retirement Inv Trust,null,182,182,1001,II,Deposits and Withdrawals of Operating Cash,68,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,RRB - Unemployment Insurance,null,0,0,167,II,Deposits and Withdrawals of Operating Cash,69,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Securities and Exchange Commission (SEC),null,2,2,2056,II,Deposits and Withdrawals of Operating Cash,70,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Small Business Administration (SBA),null,203,203,17679,II,Deposits and Withdrawals of Operating Cash,71,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Social Security Admin (SSA) - misc,null,5,5,714,II,Deposits and Withdrawals of Operating Cash,72,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,SSA - Supplemental Security Income,null,0,0,2728,II,Deposits and Withdrawals of Operating Cash,73,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,State Unemployment Insurance Deposits,null,14,14,34421,II,Deposits and Withdrawals of Operating Cash,74,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,United States Postal Service (USPS),null,387,387,73757,II,Deposits and Withdrawals of Operating Cash,75,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,US Army Corps of Engineers,null,2,2,1122,II,Deposits and Withdrawals of Operating Cash,76,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Unclassified - Deposits,null,6,6,2007,II,Deposits and Withdrawals of Operating Cash,77,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Deposits,Public Debt Cash Issues (Table IIIB),null,204587,204587,21472040,II,Deposits and Withdrawals of Operating Cash,79,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account Total Deposits,Deposits,null,null,251003,251003,25968150,II,Deposits and Withdrawals of Operating Cash,80,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Corporation for Public Broadcasting,null,0,0,585,II,Deposits and Withdrawals of Operating Cash,81,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Agriculture (USDA) - misc,null,101,101,20289,II,Deposits and Withdrawals of Operating Cash,82,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,USDA - Child Nutrition,null,26,26,24795,II,Deposits and Withdrawals of Operating Cash,83,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,USDA - Commodity Credit Corporation,null,6,6,8970,II,Deposits and Withdrawals of Operating Cash,84,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,USDA - Federal Crop Insurance Corp Fund,null,33,33,14511,II,Deposits and Withdrawals of Operating Cash,85,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,USDA - Loan Payments,null,39,39,9831,II,Deposits and Withdrawals of Operating Cash,86,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,USDA - Other Farm Service,null,2,2,3906,II,Deposits and Withdrawals of Operating Cash,87,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (SNAP),null,459,459,80383,II,Deposits and Withdrawals of Operating Cash,88,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (WIC),null,31,31,5427,II,Deposits and Withdrawals of Operating Cash,89,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Commerce (DOC),null,23,23,6999,II,Deposits and Withdrawals of Operating Cash,90,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Defense (DoD) - misc,null,709,709,335493,II,Deposits and Withdrawals of Operating Cash,91,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DoD - Military Active Duty Pay,null,4446,4446,74288,II,Deposits and Withdrawals of Operating Cash,92,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DoD - Military Retirement,null,5776,5776,52345,II,Deposits and Withdrawals of Operating Cash,93,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Education (ED),null,435,435,181812,II,Deposits and Withdrawals of Operating Cash,94,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Energy (DOE),null,220,220,44182,II,Deposits and Withdrawals of Operating Cash,95,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Health & Human Serv (HHS) - misc,null,21,21,7054,II,Deposits and Withdrawals of Operating Cash,96,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Centers for Disease Control (CDC),null,65,65,12770,II,Deposits and Withdrawals of Operating Cash,97,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Federal Hospital Insr Trust Fund,null,22672,22672,318178,II,Deposits and Withdrawals of Operating Cash,98,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Federal Supple Med Insr Trust Fund,null,33410,33410,402945,II,Deposits and Withdrawals of Operating Cash,99,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Grants to States for Medicaid,null,518,518,457902,II,Deposits and Withdrawals of Operating Cash,100,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Health Resources & Services Admin,null,53,53,10597,II,Deposits and Withdrawals of Operating Cash,101,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Indian Health Service,null,1,1,7066,II,Deposits and Withdrawals of Operating Cash,102,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Marketplace Payments,null,0,0,93093,II,Deposits and Withdrawals of Operating Cash,103,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Medicare Prescription Drugs,null,12023,12023,93250,II,Deposits and Withdrawals of Operating Cash,104,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - National Institutes of Health,null,126,126,33244,II,Deposits and Withdrawals of Operating Cash,105,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Other Public Health Services,null,27,27,8748,II,Deposits and Withdrawals of Operating Cash,106,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Othr Admin for Children & Families,null,118,118,22001,II,Deposits and Withdrawals of Operating Cash,107,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Othr Cent Medicare & Medicaid Serv,null,530,530,26302,II,Deposits and Withdrawals of Operating Cash,108,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Payments to States,null,80,80,25803,II,Deposits and Withdrawals of Operating Cash,109,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HHS - Temp Assistance for Needy Families,null,0,0,12995,II,Deposits and Withdrawals of Operating Cash,110,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Homeland Security (DHS) - misc,null,11,11,12568,II,Deposits and Withdrawals of Operating Cash,111,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DHS - Customs & Border Protection (CBP),null,12,12,7840,II,Deposits and Withdrawals of Operating Cash,112,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DHS - Fed Emergency Mgmt Agency (FEMA),null,105,105,24012,II,Deposits and Withdrawals of Operating Cash,113,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DHS - Transportation Security Admn (TSA),null,0,0,1893,II,Deposits and Withdrawals of Operating Cash,114,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Housing & Urban Dev (HUD) - misc,null,4158,4158,64146,II,Deposits and Withdrawals of Operating Cash,115,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,HUD - Federal Housing Admin (FHA),null,38,38,13233,II,Deposits and Withdrawals of Operating Cash,116,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Interior (DOI) - misc,null,45,45,13121,II,Deposits and Withdrawals of Operating Cash,117,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOI - Fish and Wildlife and Parks,null,26,26,4036,II,Deposits and Withdrawals of Operating Cash,118,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOI - Land and Minerals Management,null,5,5,1810,II,Deposits and Withdrawals of Operating Cash,119,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOI - Water and Science,null,8,8,2301,II,Deposits and Withdrawals of Operating Cash,120,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Justice (DOJ),null,16,16,17121,II,Deposits and Withdrawals of Operating Cash,121,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Labor (DOL) - misc,null,51,51,13019,II,Deposits and Withdrawals of Operating Cash,122,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOL - Pension Benefit Guaranty Corp.,null,90,90,6075,II,Deposits and Withdrawals of Operating Cash,123,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOL - Unemployment Benefits,null,173,173,28109,II,Deposits and Withdrawals of Operating Cash,124,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of State (DOS),null,60,60,15127,II,Deposits and Withdrawals of Operating Cash,125,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Transportation (DOT) - misc,null,0,0,3591,II,Deposits and Withdrawals of Operating Cash,126,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOT - Federal Aviation Administration,null,1,1,9408,II,Deposits and Withdrawals of Operating Cash,127,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOT - Federal Highway Administration,null,141,141,41505,II,Deposits and Withdrawals of Operating Cash,128,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOT - Federal Railroad Administration,null,31,31,3383,II,Deposits and Withdrawals of Operating Cash,129,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,DOT - Federal Transit Administration,null,77,77,15263,II,Deposits and Withdrawals of Operating Cash,130,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Treasury (TREAS) - misc,null,3,3,3082,II,Deposits and Withdrawals of Operating Cash,131,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,TREAS - Bureau of Engraving and Printing,null,0,0,500,II,Deposits and Withdrawals of Operating Cash,132,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,TREAS - Claims Judgments and Relief Acts,null,0,0,1460,II,Deposits and Withdrawals of Operating Cash,133,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,TREAS - Comptroller of the Currency,null,0,0,258,II,Deposits and Withdrawals of Operating Cash,134,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,TREAS - Federal Financing Bank,null,4,4,46727,II,Deposits and Withdrawals of Operating Cash,135,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,TREAS - IRS Refunds for Puerto Rico,null,0,0,819,II,Deposits and Withdrawals of Operating Cash,136,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,TREAS - Pmt to Resolution Funding Corp,null,0,0,704,II,Deposits and Withdrawals of Operating Cash,137,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,TREAS - United States Mint,null,5,5,2842,II,Deposits and Withdrawals of Operating Cash,138,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Taxes - Business Tax Refunds (EFT),null,70,70,14554,II,Deposits and Withdrawals of Operating Cash,139,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Taxes - Individual Tax Refunds (EFT),null,81,81,286130,II,Deposits and Withdrawals of Operating Cash,140,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,ESF - Economic Recovery Programs,null,0,0,-8411,II,Deposits and Withdrawals of Operating Cash,141,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Dept of Veterans Affairs (VA),null,470,470,68935,II,Deposits and Withdrawals of Operating Cash,142,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,VA - Benefits,null,13692,13692,134667,II,Deposits and Withdrawals of Operating Cash,143,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,District of Columbia,null,8,8,322,II,Deposits and Withdrawals of Operating Cash,144,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Environmental Protection Agency (EPA),null,20,20,10854,II,Deposits and Withdrawals of Operating Cash,145,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Export-Import Bank,null,5,5,459,II,Deposits and Withdrawals of Operating Cash,146,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Federal Communications Commission (FCC),null,0,0,8529,II,Deposits and Withdrawals of Operating Cash,147,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,FCC - Universal Service Fund,null,0,0,6413,II,Deposits and Withdrawals of Operating Cash,148,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Federal Deposit Insurance Corp (FDIC),null,1,1,66551,II,Deposits and Withdrawals of Operating Cash,149,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Federal Retirement Thrift Savings Plan,null,49,49,43414,II,Deposits and Withdrawals of Operating Cash,150,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Federal Salaries (EFT),null,648,648,176803,II,Deposits and Withdrawals of Operating Cash,151,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Federal Trade Commission (FTC),null,1,1,422,II,Deposits and Withdrawals of Operating Cash,152,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,General Services Administration (GSA),null,546,546,26874,II,Deposits and Withdrawals of Operating Cash,153,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Independent Agencies - misc,null,6,6,4994,II,Deposits and Withdrawals of Operating Cash,154,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Interest on Treasury Securities,null,15358,15358,367033,II,Deposits and Withdrawals of Operating Cash,155,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,International Monetary Fund (IMF),null,0,0,4610,II,Deposits and Withdrawals of Operating Cash,156,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Int'l Assistance Programs (IAP) - misc,null,0,0,572,II,Deposits and Withdrawals of Operating Cash,157,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,IAP - Agency for Int'l Development (AID),null,78,78,15225,II,Deposits and Withdrawals of Operating Cash,158,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,IAP - Foreign Military Sales,null,19,19,22946,II,Deposits and Withdrawals of Operating Cash,159,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,IAP - Multilateral Assistance,null,0,0,2298,II,Deposits and Withdrawals of Operating Cash,160,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,IAP - US Int'l Devlop Finance Corp (DFC),null,0,0,2433,II,Deposits and Withdrawals of Operating Cash,161,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Judicial Branch - Courts,null,5,5,1904,II,Deposits and Withdrawals of Operating Cash,162,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Legislative Branch - misc,null,2,2,1357,II,Deposits and Withdrawals of Operating Cash,163,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Legislative Branch - Library of Congress,null,6,6,482,II,Deposits and Withdrawals of Operating Cash,164,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,NASA,null,0,0,16875,II,Deposits and Withdrawals of Operating Cash,165,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,National Credit Union Admin (NCUA),null,0,0,467,II,Deposits and Withdrawals of Operating Cash,166,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,National Science Foundation (NSF),null,144,144,6243,II,Deposits and Withdrawals of Operating Cash,167,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Office of Personnel Mgmt (OPM) - misc,null,0,0,401,II,Deposits and Withdrawals of Operating Cash,168,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,OPM - Civil Serv Retirement & Disability,null,7060,7060,70739,II,Deposits and Withdrawals of Operating Cash,169,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,OPM - Federal Employee Insurance Payment,null,250,250,77432,II,Deposits and Withdrawals of Operating Cash,170,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Railroad Retirement Board (RRB) - misc,null,1,1,44,II,Deposits and Withdrawals of Operating Cash,171,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,RRB - Benefit Payments,null,1276,1276,12833,II,Deposits and Withdrawals of Operating Cash,172,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Securities and Exchange Commission (SEC),null,0,0,1268,II,Deposits and Withdrawals of Operating Cash,173,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Small Business Administration (SBA),null,18,18,5225,II,Deposits and Withdrawals of Operating Cash,174,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Social Security Admin (SSA) - misc,null,10,10,3884,II,Deposits and Withdrawals of Operating Cash,175,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,SSA - Benefits Payments,null,318,318,963710,II,Deposits and Withdrawals of Operating Cash,176,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,SSA - Supplemental Security Income,null,4881,4881,46371,II,Deposits and Withdrawals of Operating Cash,177,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,United States Postal Service (USPS),null,150,150,33400,II,Deposits and Withdrawals of Operating Cash,178,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,US Army Corps of Engineers,null,0,0,19315,II,Deposits and Withdrawals of Operating Cash,179,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Unclassified,null,933,933,178643,II,Deposits and Withdrawals of Operating Cash,180,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account (TGA),Withdrawals,Public Debt Cash Redemp. (Table IIIB),null,132245,132245,20414663,II,Deposits and Withdrawals of Operating Cash,182,2024,4,2024,3,07,01
+2024-07-01,Treasury General Account Total Withdrawals,Withdrawals,null,null,265362,265362,25861600,II,Deposits and Withdrawals of Operating Cash,183,2024,4,2024,3,07,01
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Agriculture (USDA) - misc,null,9,17,2818,II,Deposits and Withdrawals of Operating Cash,1,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,USDA - Commodity Credit Corporation,null,36,60,5651,II,Deposits and Withdrawals of Operating Cash,2,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,USDA - Federal Crop Insurance Corp Fund,null,0,0,3121,II,Deposits and Withdrawals of Operating Cash,3,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,USDA - Loan Repayments,null,26,551,7207,II,Deposits and Withdrawals of Operating Cash,4,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Commerce (DOC),null,16,38,3776,II,Deposits and Withdrawals of Operating Cash,5,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Defense (DoD),null,42,159,12103,II,Deposits and Withdrawals of Operating Cash,6,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Education (ED),null,310,548,48226,II,Deposits and Withdrawals of Operating Cash,7,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Energy (DOE),null,44,73,6369,II,Deposits and Withdrawals of Operating Cash,8,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Health & Human Serv (HHS) - misc,null,13,27,4840,II,Deposits and Withdrawals of Operating Cash,9,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,HHS - Marketplace Receipts,null,1,2,423,II,Deposits and Withdrawals of Operating Cash,10,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,HHS - Medicare Premiums,null,54,337,42193,II,Deposits and Withdrawals of Operating Cash,11,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Homeland Security (DHS) - misc,null,50,108,5323,II,Deposits and Withdrawals of Operating Cash,12,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DHS - Customs and Certain Excise Taxes,null,125,268,69554,II,Deposits and Withdrawals of Operating Cash,13,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DHS - Fed Emergency Mgmt Agency (FEMA),null,20,41,2495,II,Deposits and Withdrawals of Operating Cash,14,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DHS - Seized Assets,null,3,5,1511,II,Deposits and Withdrawals of Operating Cash,15,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DHS - Transportation Security Admn (TSA),null,3,6,3618,II,Deposits and Withdrawals of Operating Cash,16,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Housing & Urban Dev (HUD) - misc,null,5,14,4537,II,Deposits and Withdrawals of Operating Cash,17,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,HUD - Federal Housing Admin (FHA),null,109,186,16279,II,Deposits and Withdrawals of Operating Cash,18,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Interior (DOI) - misc,null,4,13,1415,II,Deposits and Withdrawals of Operating Cash,19,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DOI - Fish and Wildlife and Parks,null,3,10,515,II,Deposits and Withdrawals of Operating Cash,20,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DOI - Gas and Oil Lease Sales Proceeds,null,3,392,12412,II,Deposits and Withdrawals of Operating Cash,21,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DOI - Land and Minerals Management,null,2,4,681,II,Deposits and Withdrawals of Operating Cash,22,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DOI - Water and Science,null,2,5,684,II,Deposits and Withdrawals of Operating Cash,23,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Justice (DOJ),null,58,78,10314,II,Deposits and Withdrawals of Operating Cash,24,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Labor (DOL) - misc,null,2,4,406,II,Deposits and Withdrawals of Operating Cash,25,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,DOL - Pension Benefit Guaranty Corp.,null,4,6,8836,II,Deposits and Withdrawals of Operating Cash,26,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of State (DOS),null,19,30,2565,II,Deposits and Withdrawals of Operating Cash,27,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Transportation (DOT),null,13,115,1972,II,Deposits and Withdrawals of Operating Cash,28,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Treasury (TREAS) - misc,null,1,2,1976,II,Deposits and Withdrawals of Operating Cash,29,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,TREAS - Bureau of Engraving and Printing,null,0,0,911,II,Deposits and Withdrawals of Operating Cash,30,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,TREAS - Comptroller of the Currency,null,0,0,904,II,Deposits and Withdrawals of Operating Cash,31,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,TREAS - Federal Financing Bank,null,0,7,1633,II,Deposits and Withdrawals of Operating Cash,32,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,TREAS - GSE Proceeds,null,0,1,4865,II,Deposits and Withdrawals of Operating Cash,33,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,TREAS - United States Mint,null,30,35,3100,II,Deposits and Withdrawals of Operating Cash,34,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Corporate Income,null,920,1206,407657,II,Deposits and Withdrawals of Operating Cash,35,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Estate and Gift,null,77,113,20322,II,Deposits and Withdrawals of Operating Cash,36,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Federal Unemployment (FUTA),null,3,7,7376,II,Deposits and Withdrawals of Operating Cash,37,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,"Taxes - IRS Collected Estate, Gift, misc",null,5,8,5157,II,Deposits and Withdrawals of Operating Cash,38,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Miscellaneous Excise,null,36,63,65676,II,Deposits and Withdrawals of Operating Cash,39,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Electronic,null,485,1227,499058,II,Deposits and Withdrawals of Operating Cash,40,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Other,null,557,1050,398197,II,Deposits and Withdrawals of Operating Cash,41,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Railroad Retirement,null,11,63,5184,II,Deposits and Withdrawals of Operating Cash,42,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Taxes - Withheld Individual/FICA,null,7459,47005,2503740,II,Deposits and Withdrawals of Operating Cash,43,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Dept of Veterans Affairs (VA),null,62,96,5656,II,Deposits and Withdrawals of Operating Cash,44,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,District of Columbia,null,0,0,283,II,Deposits and Withdrawals of Operating Cash,45,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Environmental Protection Agency (EPA),null,2,9,388,II,Deposits and Withdrawals of Operating Cash,46,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Export-Import Bank,null,0,1,1378,II,Deposits and Withdrawals of Operating Cash,47,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Federal Communications Commission (FCC),null,2,3,1239,II,Deposits and Withdrawals of Operating Cash,48,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,FCC - Universal Service Fund,null,5,8,6305,II,Deposits and Withdrawals of Operating Cash,49,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Federal Deposit Insurance Corp (FDIC),null,5,6,62431,II,Deposits and Withdrawals of Operating Cash,50,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Federal Reserve Earnings,null,0,0,2163,II,Deposits and Withdrawals of Operating Cash,51,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Federal Retirement Thrift Savings Plan,null,74,285,24943,II,Deposits and Withdrawals of Operating Cash,52,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Federal Trade Commission (FTC),null,1,4,503,II,Deposits and Withdrawals of Operating Cash,53,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,General Services Administration (GSA),null,9,24,2072,II,Deposits and Withdrawals of Operating Cash,54,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Independent Agencies - misc,null,7,31,3820,II,Deposits and Withdrawals of Operating Cash,55,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,International Monetary Fund (IMF),null,0,20,7292,II,Deposits and Withdrawals of Operating Cash,56,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Int'l Assistance Programs (IAP) - misc,null,0,0,4,II,Deposits and Withdrawals of Operating Cash,57,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,IAP - Agency for Int'l Development (AID),null,0,3,137,II,Deposits and Withdrawals of Operating Cash,58,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,IAP - Foreign Military Sales,null,7,1964,39091,II,Deposits and Withdrawals of Operating Cash,59,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,IAP - US Int'l Devlop Finance Corp (DFC),null,3,6,1637,II,Deposits and Withdrawals of Operating Cash,60,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Judicial Branch - Courts,null,3,8,1684,II,Deposits and Withdrawals of Operating Cash,61,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Legislative Branch - misc,null,0,1,44,II,Deposits and Withdrawals of Operating Cash,62,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Legislative Branch - Library of Congress,null,0,0,158,II,Deposits and Withdrawals of Operating Cash,63,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,National Credit Union Admin (NCUA),null,0,0,931,II,Deposits and Withdrawals of Operating Cash,64,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,National Science Foundation (NSF),null,0,0,64,II,Deposits and Withdrawals of Operating Cash,65,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Office of Personnel Mgmt (OPM) - misc,null,0,0,6,II,Deposits and Withdrawals of Operating Cash,66,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,OPM - Federal Employee Insurance Receipt,null,6,8,3375,II,Deposits and Withdrawals of Operating Cash,67,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,RRB - Natl Railroad Retirement Inv Trust,null,0,182,1001,II,Deposits and Withdrawals of Operating Cash,68,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,RRB - Unemployment Insurance,null,0,0,168,II,Deposits and Withdrawals of Operating Cash,69,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Securities and Exchange Commission (SEC),null,0,2,2057,II,Deposits and Withdrawals of Operating Cash,70,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Small Business Administration (SBA),null,101,304,17780,II,Deposits and Withdrawals of Operating Cash,71,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Social Security Admin (SSA) - misc,null,7,12,721,II,Deposits and Withdrawals of Operating Cash,72,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,SSA - Supplemental Security Income,null,0,0,2728,II,Deposits and Withdrawals of Operating Cash,73,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,State Unemployment Insurance Deposits,null,23,37,34444,II,Deposits and Withdrawals of Operating Cash,74,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,United States Postal Service (USPS),null,491,878,74247,II,Deposits and Withdrawals of Operating Cash,75,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,US Army Corps of Engineers,null,0,2,1122,II,Deposits and Withdrawals of Operating Cash,76,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Unclassified - Deposits,null,15,21,2021,II,Deposits and Withdrawals of Operating Cash,77,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Deposits,Public Debt Cash Issues (Table IIIB),null,220051,424638,21692091,II,Deposits and Withdrawals of Operating Cash,79,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account Total Deposits,Deposits,null,null,231434,482438,26199584,II,Deposits and Withdrawals of Operating Cash,80,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Corporation for Public Broadcasting,null,0,0,585,II,Deposits and Withdrawals of Operating Cash,81,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Agriculture (USDA) - misc,null,121,222,20410,II,Deposits and Withdrawals of Operating Cash,82,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,USDA - Child Nutrition,null,28,54,24822,II,Deposits and Withdrawals of Operating Cash,83,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,USDA - Commodity Credit Corporation,null,6,12,8975,II,Deposits and Withdrawals of Operating Cash,84,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,USDA - Federal Crop Insurance Corp Fund,null,31,65,14542,II,Deposits and Withdrawals of Operating Cash,85,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,USDA - Loan Payments,null,20,59,9851,II,Deposits and Withdrawals of Operating Cash,86,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,USDA - Other Farm Service,null,7,8,3912,II,Deposits and Withdrawals of Operating Cash,87,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (SNAP),null,267,726,80650,II,Deposits and Withdrawals of Operating Cash,88,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (WIC),null,31,63,5458,II,Deposits and Withdrawals of Operating Cash,89,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Commerce (DOC),null,33,56,7032,II,Deposits and Withdrawals of Operating Cash,90,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Defense (DoD) - misc,null,2094,2803,337587,II,Deposits and Withdrawals of Operating Cash,91,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DoD - Military Active Duty Pay,null,8,4454,74296,II,Deposits and Withdrawals of Operating Cash,92,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DoD - Military Retirement,null,2,5778,52346,II,Deposits and Withdrawals of Operating Cash,93,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Education (ED),null,438,873,182250,II,Deposits and Withdrawals of Operating Cash,94,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Energy (DOE),null,158,378,44339,II,Deposits and Withdrawals of Operating Cash,95,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Health & Human Serv (HHS) - misc,null,40,61,7094,II,Deposits and Withdrawals of Operating Cash,96,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Centers for Disease Control (CDC),null,40,105,12810,II,Deposits and Withdrawals of Operating Cash,97,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Federal Hospital Insr Trust Fund,null,867,23539,319046,II,Deposits and Withdrawals of Operating Cash,98,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Federal Supple Med Insr Trust Fund,null,902,34312,403848,II,Deposits and Withdrawals of Operating Cash,99,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Grants to States for Medicaid,null,3371,3889,461273,II,Deposits and Withdrawals of Operating Cash,100,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Health Resources & Services Admin,null,48,101,10646,II,Deposits and Withdrawals of Operating Cash,101,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Indian Health Service,null,6,8,7072,II,Deposits and Withdrawals of Operating Cash,102,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Marketplace Payments,null,0,0,93093,II,Deposits and Withdrawals of Operating Cash,103,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Medicare Prescription Drugs,null,0,12023,93250,II,Deposits and Withdrawals of Operating Cash,104,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - National Institutes of Health,null,141,267,33385,II,Deposits and Withdrawals of Operating Cash,105,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Other Public Health Services,null,26,54,8774,II,Deposits and Withdrawals of Operating Cash,106,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Othr Admin for Children & Families,null,97,214,22097,II,Deposits and Withdrawals of Operating Cash,107,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Othr Cent Medicare & Medicaid Serv,null,157,687,26459,II,Deposits and Withdrawals of Operating Cash,108,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Payments to States,null,92,172,25896,II,Deposits and Withdrawals of Operating Cash,109,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HHS - Temp Assistance for Needy Families,null,139,139,13134,II,Deposits and Withdrawals of Operating Cash,110,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Homeland Security (DHS) - misc,null,109,120,12677,II,Deposits and Withdrawals of Operating Cash,111,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DHS - Customs & Border Protection (CBP),null,17,29,7857,II,Deposits and Withdrawals of Operating Cash,112,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DHS - Fed Emergency Mgmt Agency (FEMA),null,70,175,24082,II,Deposits and Withdrawals of Operating Cash,113,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DHS - Transportation Security Admn (TSA),null,14,14,1907,II,Deposits and Withdrawals of Operating Cash,114,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Housing & Urban Dev (HUD) - misc,null,254,4411,64400,II,Deposits and Withdrawals of Operating Cash,115,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,HUD - Federal Housing Admin (FHA),null,65,103,13297,II,Deposits and Withdrawals of Operating Cash,116,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Interior (DOI) - misc,null,23,68,13144,II,Deposits and Withdrawals of Operating Cash,117,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOI - Fish and Wildlife and Parks,null,10,36,4046,II,Deposits and Withdrawals of Operating Cash,118,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOI - Land and Minerals Management,null,7,12,1817,II,Deposits and Withdrawals of Operating Cash,119,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOI - Water and Science,null,15,23,2316,II,Deposits and Withdrawals of Operating Cash,120,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Justice (DOJ),null,129,145,17250,II,Deposits and Withdrawals of Operating Cash,121,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Labor (DOL) - misc,null,31,82,13051,II,Deposits and Withdrawals of Operating Cash,122,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOL - Pension Benefit Guaranty Corp.,null,0,90,6075,II,Deposits and Withdrawals of Operating Cash,123,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOL - Unemployment Benefits,null,253,425,28361,II,Deposits and Withdrawals of Operating Cash,124,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of State (DOS),null,92,152,15219,II,Deposits and Withdrawals of Operating Cash,125,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Transportation (DOT) - misc,null,-10,-10,3581,II,Deposits and Withdrawals of Operating Cash,126,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOT - Federal Aviation Administration,null,164,165,9572,II,Deposits and Withdrawals of Operating Cash,127,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOT - Federal Highway Administration,null,85,227,41591,II,Deposits and Withdrawals of Operating Cash,128,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOT - Federal Railroad Administration,null,1,32,3383,II,Deposits and Withdrawals of Operating Cash,129,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,DOT - Federal Transit Administration,null,127,204,15391,II,Deposits and Withdrawals of Operating Cash,130,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Treasury (TREAS) - misc,null,8,11,3091,II,Deposits and Withdrawals of Operating Cash,131,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,TREAS - Bureau of Engraving and Printing,null,0,0,500,II,Deposits and Withdrawals of Operating Cash,132,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,TREAS - Claims Judgments and Relief Acts,null,1,1,1461,II,Deposits and Withdrawals of Operating Cash,133,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,TREAS - Comptroller of the Currency,null,0,0,258,II,Deposits and Withdrawals of Operating Cash,134,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,TREAS - Federal Financing Bank,null,3,7,46730,II,Deposits and Withdrawals of Operating Cash,135,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,TREAS - IRS Refunds for Puerto Rico,null,0,0,819,II,Deposits and Withdrawals of Operating Cash,136,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,TREAS - Pmt to Resolution Funding Corp,null,0,0,704,II,Deposits and Withdrawals of Operating Cash,137,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,TREAS - United States Mint,null,2,7,2844,II,Deposits and Withdrawals of Operating Cash,138,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Taxes - Business Tax Refunds (EFT),null,79,149,14634,II,Deposits and Withdrawals of Operating Cash,139,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Taxes - Individual Tax Refunds (EFT),null,70,152,286201,II,Deposits and Withdrawals of Operating Cash,140,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,ESF - Economic Recovery Programs,null,0,0,-8411,II,Deposits and Withdrawals of Operating Cash,141,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Dept of Veterans Affairs (VA),null,392,861,69327,II,Deposits and Withdrawals of Operating Cash,142,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,VA - Benefits,null,-4,13688,134663,II,Deposits and Withdrawals of Operating Cash,143,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,District of Columbia,null,25,33,347,II,Deposits and Withdrawals of Operating Cash,144,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Environmental Protection Agency (EPA),null,24,44,10878,II,Deposits and Withdrawals of Operating Cash,145,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Export-Import Bank,null,0,5,459,II,Deposits and Withdrawals of Operating Cash,146,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Federal Communications Commission (FCC),null,9,9,8538,II,Deposits and Withdrawals of Operating Cash,147,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,FCC - Universal Service Fund,null,0,0,6413,II,Deposits and Withdrawals of Operating Cash,148,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Federal Deposit Insurance Corp (FDIC),null,2,3,66553,II,Deposits and Withdrawals of Operating Cash,149,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Federal Retirement Thrift Savings Plan,null,323,372,43737,II,Deposits and Withdrawals of Operating Cash,150,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Federal Salaries (EFT),null,86,734,176889,II,Deposits and Withdrawals of Operating Cash,151,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Federal Trade Commission (FTC),null,1,1,423,II,Deposits and Withdrawals of Operating Cash,152,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,General Services Administration (GSA),null,198,744,27072,II,Deposits and Withdrawals of Operating Cash,153,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Independent Agencies - misc,null,175,181,5169,II,Deposits and Withdrawals of Operating Cash,154,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Interest on Treasury Securities,null,7,15365,367040,II,Deposits and Withdrawals of Operating Cash,155,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,International Monetary Fund (IMF),null,46,46,4656,II,Deposits and Withdrawals of Operating Cash,156,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Int'l Assistance Programs (IAP) - misc,null,1,1,573,II,Deposits and Withdrawals of Operating Cash,157,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,IAP - Agency for Int'l Development (AID),null,46,124,15270,II,Deposits and Withdrawals of Operating Cash,158,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,IAP - Foreign Military Sales,null,94,113,23040,II,Deposits and Withdrawals of Operating Cash,159,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,IAP - Multilateral Assistance,null,0,0,2298,II,Deposits and Withdrawals of Operating Cash,160,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,IAP - US Int'l Devlop Finance Corp (DFC),null,1,1,2434,II,Deposits and Withdrawals of Operating Cash,161,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Judicial Branch - Courts,null,7,12,1911,II,Deposits and Withdrawals of Operating Cash,162,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Legislative Branch - misc,null,9,11,1366,II,Deposits and Withdrawals of Operating Cash,163,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Legislative Branch - Library of Congress,null,4,10,486,II,Deposits and Withdrawals of Operating Cash,164,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,NASA,null,186,186,17062,II,Deposits and Withdrawals of Operating Cash,165,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,National Credit Union Admin (NCUA),null,0,0,467,II,Deposits and Withdrawals of Operating Cash,166,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,National Science Foundation (NSF),null,32,176,6275,II,Deposits and Withdrawals of Operating Cash,167,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Office of Personnel Mgmt (OPM) - misc,null,9,9,410,II,Deposits and Withdrawals of Operating Cash,168,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,OPM - Civil Serv Retirement & Disability,null,0,7060,70738,II,Deposits and Withdrawals of Operating Cash,169,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,OPM - Federal Employee Insurance Payment,null,264,514,77696,II,Deposits and Withdrawals of Operating Cash,170,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Railroad Retirement Board (RRB) - misc,null,0,1,44,II,Deposits and Withdrawals of Operating Cash,171,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,RRB - Benefit Payments,null,1,1277,12835,II,Deposits and Withdrawals of Operating Cash,172,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Securities and Exchange Commission (SEC),null,3,3,1272,II,Deposits and Withdrawals of Operating Cash,173,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Small Business Administration (SBA),null,36,53,5260,II,Deposits and Withdrawals of Operating Cash,174,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Social Security Admin (SSA) - misc,null,26,36,3910,II,Deposits and Withdrawals of Operating Cash,175,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,SSA - Benefits Payments,null,88,406,963798,II,Deposits and Withdrawals of Operating Cash,176,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,SSA - Supplemental Security Income,null,124,5005,46495,II,Deposits and Withdrawals of Operating Cash,177,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,United States Postal Service (USPS),null,405,555,33805,II,Deposits and Withdrawals of Operating Cash,178,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,US Army Corps of Engineers,null,0,0,19315,II,Deposits and Withdrawals of Operating Cash,179,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Unclassified,null,1158,2090,179801,II,Deposits and Withdrawals of Operating Cash,180,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account (TGA),Withdrawals,Public Debt Cash Redemp. (Table IIIB),null,211752,343998,20626415,II,Deposits and Withdrawals of Operating Cash,182,2024,4,2024,3,07,02
+2024-07-02,Treasury General Account Total Withdrawals,Withdrawals,null,null,226320,491682,26087920,II,Deposits and Withdrawals of Operating Cash,183,2024,4,2024,3,07,02
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Agriculture (USDA) - misc,null,77,94,2896,II,Deposits and Withdrawals of Operating Cash,1,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,USDA - Commodity Credit Corporation,null,39,99,5690,II,Deposits and Withdrawals of Operating Cash,2,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,USDA - Federal Crop Insurance Corp Fund,null,0,0,3121,II,Deposits and Withdrawals of Operating Cash,3,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,USDA - Loan Repayments,null,16,567,7223,II,Deposits and Withdrawals of Operating Cash,4,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Commerce (DOC),null,15,53,3791,II,Deposits and Withdrawals of Operating Cash,5,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Defense (DoD),null,50,208,12152,II,Deposits and Withdrawals of Operating Cash,6,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Education (ED),null,179,727,48404,II,Deposits and Withdrawals of Operating Cash,7,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Energy (DOE),null,28,100,6397,II,Deposits and Withdrawals of Operating Cash,8,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Health & Human Serv (HHS) - misc,null,16,42,4856,II,Deposits and Withdrawals of Operating Cash,9,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,HHS - Marketplace Receipts,null,0,2,424,II,Deposits and Withdrawals of Operating Cash,10,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,HHS - Medicare Premiums,null,103,440,42296,II,Deposits and Withdrawals of Operating Cash,11,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Homeland Security (DHS) - misc,null,42,150,5365,II,Deposits and Withdrawals of Operating Cash,12,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DHS - Customs and Certain Excise Taxes,null,151,418,69705,II,Deposits and Withdrawals of Operating Cash,13,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DHS - Fed Emergency Mgmt Agency (FEMA),null,20,61,2515,II,Deposits and Withdrawals of Operating Cash,14,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DHS - Seized Assets,null,4,9,1515,II,Deposits and Withdrawals of Operating Cash,15,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DHS - Transportation Security Admn (TSA),null,1,7,3619,II,Deposits and Withdrawals of Operating Cash,16,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Housing & Urban Dev (HUD) - misc,null,4,18,4541,II,Deposits and Withdrawals of Operating Cash,17,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,HUD - Federal Housing Admin (FHA),null,108,294,16386,II,Deposits and Withdrawals of Operating Cash,18,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Interior (DOI) - misc,null,4,17,1419,II,Deposits and Withdrawals of Operating Cash,19,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DOI - Fish and Wildlife and Parks,null,7,17,522,II,Deposits and Withdrawals of Operating Cash,20,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DOI - Gas and Oil Lease Sales Proceeds,null,5,397,12418,II,Deposits and Withdrawals of Operating Cash,21,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DOI - Land and Minerals Management,null,15,19,696,II,Deposits and Withdrawals of Operating Cash,22,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DOI - Water and Science,null,8,13,692,II,Deposits and Withdrawals of Operating Cash,23,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Justice (DOJ),null,19,97,10333,II,Deposits and Withdrawals of Operating Cash,24,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Labor (DOL) - misc,null,2,6,408,II,Deposits and Withdrawals of Operating Cash,25,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,DOL - Pension Benefit Guaranty Corp.,null,10,17,8846,II,Deposits and Withdrawals of Operating Cash,26,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of State (DOS),null,19,50,2584,II,Deposits and Withdrawals of Operating Cash,27,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Transportation (DOT),null,11,126,1984,II,Deposits and Withdrawals of Operating Cash,28,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Treasury (TREAS) - misc,null,2,4,1978,II,Deposits and Withdrawals of Operating Cash,29,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,TREAS - Bureau of Engraving and Printing,null,0,0,911,II,Deposits and Withdrawals of Operating Cash,30,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,TREAS - Comptroller of the Currency,null,0,0,904,II,Deposits and Withdrawals of Operating Cash,31,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,TREAS - Federal Financing Bank,null,0,7,1633,II,Deposits and Withdrawals of Operating Cash,32,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,TREAS - GSE Proceeds,null,0,1,4865,II,Deposits and Withdrawals of Operating Cash,33,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,TREAS - United States Mint,null,2,37,3102,II,Deposits and Withdrawals of Operating Cash,34,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Corporate Income,null,301,1507,407958,II,Deposits and Withdrawals of Operating Cash,35,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Estate and Gift,null,91,204,20413,II,Deposits and Withdrawals of Operating Cash,36,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Federal Unemployment (FUTA),null,4,11,7380,II,Deposits and Withdrawals of Operating Cash,37,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,"Taxes - IRS Collected Estate, Gift, misc",null,5,14,5163,II,Deposits and Withdrawals of Operating Cash,38,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Miscellaneous Excise,null,44,108,65720,II,Deposits and Withdrawals of Operating Cash,39,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Electronic,null,415,1642,499473,II,Deposits and Withdrawals of Operating Cash,40,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Other,null,1006,2056,399203,II,Deposits and Withdrawals of Operating Cash,41,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Railroad Retirement,null,4,67,5188,II,Deposits and Withdrawals of Operating Cash,42,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Taxes - Withheld Individual/FICA,null,13363,60368,2517103,II,Deposits and Withdrawals of Operating Cash,43,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Dept of Veterans Affairs (VA),null,50,147,5707,II,Deposits and Withdrawals of Operating Cash,44,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,District of Columbia,null,0,0,283,II,Deposits and Withdrawals of Operating Cash,45,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Environmental Protection Agency (EPA),null,1,11,389,II,Deposits and Withdrawals of Operating Cash,46,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Export-Import Bank,null,0,1,1378,II,Deposits and Withdrawals of Operating Cash,47,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Federal Communications Commission (FCC),null,3,6,1242,II,Deposits and Withdrawals of Operating Cash,48,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,FCC - Universal Service Fund,null,7,15,6312,II,Deposits and Withdrawals of Operating Cash,49,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Federal Deposit Insurance Corp (FDIC),null,0,6,62431,II,Deposits and Withdrawals of Operating Cash,50,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Federal Reserve Earnings,null,75,75,2238,II,Deposits and Withdrawals of Operating Cash,51,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Federal Retirement Thrift Savings Plan,null,24,309,24967,II,Deposits and Withdrawals of Operating Cash,52,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Federal Trade Commission (FTC),null,17,21,520,II,Deposits and Withdrawals of Operating Cash,53,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,General Services Administration (GSA),null,9,32,2081,II,Deposits and Withdrawals of Operating Cash,54,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Independent Agencies - misc,null,11,42,3831,II,Deposits and Withdrawals of Operating Cash,55,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,International Monetary Fund (IMF),null,31,51,7323,II,Deposits and Withdrawals of Operating Cash,56,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Int'l Assistance Programs (IAP) - misc,null,0,0,4,II,Deposits and Withdrawals of Operating Cash,57,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,IAP - Agency for Int'l Development (AID),null,0,3,137,II,Deposits and Withdrawals of Operating Cash,58,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,IAP - Foreign Military Sales,null,9,1973,39100,II,Deposits and Withdrawals of Operating Cash,59,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,IAP - US Int'l Devlop Finance Corp (DFC),null,3,8,1640,II,Deposits and Withdrawals of Operating Cash,60,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Judicial Branch - Courts,null,3,11,1687,II,Deposits and Withdrawals of Operating Cash,61,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Legislative Branch - misc,null,0,1,44,II,Deposits and Withdrawals of Operating Cash,62,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Legislative Branch - Library of Congress,null,0,1,159,II,Deposits and Withdrawals of Operating Cash,63,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,National Credit Union Admin (NCUA),null,0,0,931,II,Deposits and Withdrawals of Operating Cash,64,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,National Science Foundation (NSF),null,0,0,64,II,Deposits and Withdrawals of Operating Cash,65,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Office of Personnel Mgmt (OPM) - misc,null,0,0,6,II,Deposits and Withdrawals of Operating Cash,66,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,OPM - Federal Employee Insurance Receipt,null,5,13,3380,II,Deposits and Withdrawals of Operating Cash,67,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,RRB - Natl Railroad Retirement Inv Trust,null,0,182,1001,II,Deposits and Withdrawals of Operating Cash,68,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,RRB - Unemployment Insurance,null,0,0,168,II,Deposits and Withdrawals of Operating Cash,69,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Securities and Exchange Commission (SEC),null,1,3,2058,II,Deposits and Withdrawals of Operating Cash,70,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Small Business Administration (SBA),null,105,409,17885,II,Deposits and Withdrawals of Operating Cash,71,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Social Security Admin (SSA) - misc,null,14,26,735,II,Deposits and Withdrawals of Operating Cash,72,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,SSA - Supplemental Security Income,null,0,1,2728,II,Deposits and Withdrawals of Operating Cash,73,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,State Unemployment Insurance Deposits,null,16,53,34460,II,Deposits and Withdrawals of Operating Cash,74,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,United States Postal Service (USPS),null,364,1242,74611,II,Deposits and Withdrawals of Operating Cash,75,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,US Army Corps of Engineers,null,6,8,1128,II,Deposits and Withdrawals of Operating Cash,76,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Unclassified - Deposits,null,9,30,2031,II,Deposits and Withdrawals of Operating Cash,77,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Deposits,Public Debt Cash Issues (Table IIIB),null,2800,427438,21694891,II,Deposits and Withdrawals of Operating Cash,79,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account Total Deposits,Deposits,null,null,19754,502192,26219339,II,Deposits and Withdrawals of Operating Cash,80,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Corporation for Public Broadcasting,null,0,0,585,II,Deposits and Withdrawals of Operating Cash,81,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Agriculture (USDA) - misc,null,77,299,20487,II,Deposits and Withdrawals of Operating Cash,82,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,USDA - Child Nutrition,null,48,102,24871,II,Deposits and Withdrawals of Operating Cash,83,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,USDA - Commodity Credit Corporation,null,3,15,8978,II,Deposits and Withdrawals of Operating Cash,84,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,USDA - Federal Crop Insurance Corp Fund,null,10,74,14552,II,Deposits and Withdrawals of Operating Cash,85,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,USDA - Loan Payments,null,46,105,9897,II,Deposits and Withdrawals of Operating Cash,86,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,USDA - Other Farm Service,null,0,9,3912,II,Deposits and Withdrawals of Operating Cash,87,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (SNAP),null,295,1021,80945,II,Deposits and Withdrawals of Operating Cash,88,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (WIC),null,46,109,5504,II,Deposits and Withdrawals of Operating Cash,89,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Commerce (DOC),null,32,88,7064,II,Deposits and Withdrawals of Operating Cash,90,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Defense (DoD) - misc,null,1338,4141,338925,II,Deposits and Withdrawals of Operating Cash,91,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DoD - Military Active Duty Pay,null,18,4472,74314,II,Deposits and Withdrawals of Operating Cash,92,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DoD - Military Retirement,null,1,5779,52348,II,Deposits and Withdrawals of Operating Cash,93,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Education (ED),null,577,1450,182828,II,Deposits and Withdrawals of Operating Cash,94,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Energy (DOE),null,300,678,44639,II,Deposits and Withdrawals of Operating Cash,95,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Health & Human Serv (HHS) - misc,null,84,145,7178,II,Deposits and Withdrawals of Operating Cash,96,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Centers for Disease Control (CDC),null,62,167,12872,II,Deposits and Withdrawals of Operating Cash,97,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Federal Hospital Insr Trust Fund,null,946,24485,319991,II,Deposits and Withdrawals of Operating Cash,98,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Federal Supple Med Insr Trust Fund,null,904,35216,404752,II,Deposits and Withdrawals of Operating Cash,99,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Grants to States for Medicaid,null,3234,7123,464507,II,Deposits and Withdrawals of Operating Cash,100,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Health Resources & Services Admin,null,54,155,10700,II,Deposits and Withdrawals of Operating Cash,101,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Indian Health Service,null,13,20,7085,II,Deposits and Withdrawals of Operating Cash,102,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Marketplace Payments,null,0,0,93093,II,Deposits and Withdrawals of Operating Cash,103,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Medicare Prescription Drugs,null,0,12023,93250,II,Deposits and Withdrawals of Operating Cash,104,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - National Institutes of Health,null,220,487,33605,II,Deposits and Withdrawals of Operating Cash,105,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Other Public Health Services,null,35,89,8809,II,Deposits and Withdrawals of Operating Cash,106,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Othr Admin for Children & Families,null,87,302,22185,II,Deposits and Withdrawals of Operating Cash,107,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Othr Cent Medicare & Medicaid Serv,null,77,764,26536,II,Deposits and Withdrawals of Operating Cash,108,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Payments to States,null,279,451,26174,II,Deposits and Withdrawals of Operating Cash,109,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HHS - Temp Assistance for Needy Families,null,222,361,13356,II,Deposits and Withdrawals of Operating Cash,110,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Homeland Security (DHS) - misc,null,48,168,12725,II,Deposits and Withdrawals of Operating Cash,111,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DHS - Customs & Border Protection (CBP),null,14,42,7870,II,Deposits and Withdrawals of Operating Cash,112,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DHS - Fed Emergency Mgmt Agency (FEMA),null,88,263,24170,II,Deposits and Withdrawals of Operating Cash,113,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DHS - Transportation Security Admn (TSA),null,3,17,1910,II,Deposits and Withdrawals of Operating Cash,114,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Housing & Urban Dev (HUD) - misc,null,181,4592,64580,II,Deposits and Withdrawals of Operating Cash,115,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,HUD - Federal Housing Admin (FHA),null,324,427,13621,II,Deposits and Withdrawals of Operating Cash,116,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Interior (DOI) - misc,null,98,166,13242,II,Deposits and Withdrawals of Operating Cash,117,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOI - Fish and Wildlife and Parks,null,24,59,4070,II,Deposits and Withdrawals of Operating Cash,118,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOI - Land and Minerals Management,null,7,19,1824,II,Deposits and Withdrawals of Operating Cash,119,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOI - Water and Science,null,14,37,2330,II,Deposits and Withdrawals of Operating Cash,120,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Justice (DOJ),null,104,249,17354,II,Deposits and Withdrawals of Operating Cash,121,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Labor (DOL) - misc,null,88,170,13138,II,Deposits and Withdrawals of Operating Cash,122,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOL - Pension Benefit Guaranty Corp.,null,2,91,6076,II,Deposits and Withdrawals of Operating Cash,123,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOL - Unemployment Benefits,null,132,558,28494,II,Deposits and Withdrawals of Operating Cash,124,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of State (DOS),null,88,240,15307,II,Deposits and Withdrawals of Operating Cash,125,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Transportation (DOT) - misc,null,30,20,3611,II,Deposits and Withdrawals of Operating Cash,126,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOT - Federal Aviation Administration,null,59,223,9631,II,Deposits and Withdrawals of Operating Cash,127,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOT - Federal Highway Administration,null,255,482,41846,II,Deposits and Withdrawals of Operating Cash,128,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOT - Federal Railroad Administration,null,32,64,3416,II,Deposits and Withdrawals of Operating Cash,129,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,DOT - Federal Transit Administration,null,39,243,15430,II,Deposits and Withdrawals of Operating Cash,130,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Treasury (TREAS) - misc,null,1,12,3091,II,Deposits and Withdrawals of Operating Cash,131,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,TREAS - Bureau of Engraving and Printing,null,1,0,501,II,Deposits and Withdrawals of Operating Cash,132,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,TREAS - Claims Judgments and Relief Acts,null,1,2,1462,II,Deposits and Withdrawals of Operating Cash,133,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,TREAS - Comptroller of the Currency,null,2,2,260,II,Deposits and Withdrawals of Operating Cash,134,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,TREAS - Federal Financing Bank,null,6,13,46736,II,Deposits and Withdrawals of Operating Cash,135,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,TREAS - IRS Refunds for Puerto Rico,null,0,0,819,II,Deposits and Withdrawals of Operating Cash,136,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,TREAS - Pmt to Resolution Funding Corp,null,0,0,704,II,Deposits and Withdrawals of Operating Cash,137,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,TREAS - United States Mint,null,6,13,2850,II,Deposits and Withdrawals of Operating Cash,138,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Taxes - Business Tax Refunds (EFT),null,10,159,14643,II,Deposits and Withdrawals of Operating Cash,139,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Taxes - Individual Tax Refunds (EFT),null,895,1046,287096,II,Deposits and Withdrawals of Operating Cash,140,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,ESF - Economic Recovery Programs,null,0,0,-8411,II,Deposits and Withdrawals of Operating Cash,141,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Dept of Veterans Affairs (VA),null,492,1353,69819,II,Deposits and Withdrawals of Operating Cash,142,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,VA - Benefits,null,-3,13685,134660,II,Deposits and Withdrawals of Operating Cash,143,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,District of Columbia,null,0,33,347,II,Deposits and Withdrawals of Operating Cash,144,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Environmental Protection Agency (EPA),null,19,64,10898,II,Deposits and Withdrawals of Operating Cash,145,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Export-Import Bank,null,0,5,459,II,Deposits and Withdrawals of Operating Cash,146,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Federal Communications Commission (FCC),null,1,11,8539,II,Deposits and Withdrawals of Operating Cash,147,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,FCC - Universal Service Fund,null,43,43,6455,II,Deposits and Withdrawals of Operating Cash,148,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Federal Deposit Insurance Corp (FDIC),null,6,9,66559,II,Deposits and Withdrawals of Operating Cash,149,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Federal Retirement Thrift Savings Plan,null,89,461,43826,II,Deposits and Withdrawals of Operating Cash,150,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Federal Salaries (EFT),null,108,842,176997,II,Deposits and Withdrawals of Operating Cash,151,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Federal Trade Commission (FTC),null,0,2,423,II,Deposits and Withdrawals of Operating Cash,152,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,General Services Administration (GSA),null,145,889,27217,II,Deposits and Withdrawals of Operating Cash,153,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Independent Agencies - misc,null,31,212,5200,II,Deposits and Withdrawals of Operating Cash,154,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Interest on Treasury Securities,null,15,15379,367054,II,Deposits and Withdrawals of Operating Cash,155,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,International Monetary Fund (IMF),null,0,46,4656,II,Deposits and Withdrawals of Operating Cash,156,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Int'l Assistance Programs (IAP) - misc,null,2,3,575,II,Deposits and Withdrawals of Operating Cash,157,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,IAP - Agency for Int'l Development (AID),null,62,186,15332,II,Deposits and Withdrawals of Operating Cash,158,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,IAP - Foreign Military Sales,null,45,158,23085,II,Deposits and Withdrawals of Operating Cash,159,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,IAP - Multilateral Assistance,null,0,0,2298,II,Deposits and Withdrawals of Operating Cash,160,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,IAP - US Int'l Devlop Finance Corp (DFC),null,2,3,2436,II,Deposits and Withdrawals of Operating Cash,161,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Judicial Branch - Courts,null,7,19,1918,II,Deposits and Withdrawals of Operating Cash,162,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Legislative Branch - misc,null,16,27,1383,II,Deposits and Withdrawals of Operating Cash,163,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Legislative Branch - Library of Congress,null,2,12,488,II,Deposits and Withdrawals of Operating Cash,164,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,NASA,null,140,326,17202,II,Deposits and Withdrawals of Operating Cash,165,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,National Credit Union Admin (NCUA),null,1,1,468,II,Deposits and Withdrawals of Operating Cash,166,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,National Science Foundation (NSF),null,38,214,6313,II,Deposits and Withdrawals of Operating Cash,167,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Office of Personnel Mgmt (OPM) - misc,null,1,10,411,II,Deposits and Withdrawals of Operating Cash,168,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,OPM - Civil Serv Retirement & Disability,null,0,7059,70738,II,Deposits and Withdrawals of Operating Cash,169,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,OPM - Federal Employee Insurance Payment,null,468,981,78163,II,Deposits and Withdrawals of Operating Cash,170,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Railroad Retirement Board (RRB) - misc,null,2,3,46,II,Deposits and Withdrawals of Operating Cash,171,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,RRB - Benefit Payments,null,0,1277,12835,II,Deposits and Withdrawals of Operating Cash,172,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Securities and Exchange Commission (SEC),null,1,5,1273,II,Deposits and Withdrawals of Operating Cash,173,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Small Business Administration (SBA),null,17,71,5278,II,Deposits and Withdrawals of Operating Cash,174,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Social Security Admin (SSA) - misc,null,12,48,3922,II,Deposits and Withdrawals of Operating Cash,175,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,SSA - Benefits Payments,null,24708,25114,988506,II,Deposits and Withdrawals of Operating Cash,176,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,SSA - Supplemental Security Income,null,9,5014,46504,II,Deposits and Withdrawals of Operating Cash,177,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,United States Postal Service (USPS),null,202,757,34008,II,Deposits and Withdrawals of Operating Cash,178,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,US Army Corps of Engineers,null,286,286,19600,II,Deposits and Withdrawals of Operating Cash,179,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Unclassified,null,1041,3131,180842,II,Deposits and Withdrawals of Operating Cash,180,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account (TGA),Withdrawals,Public Debt Cash Redemp. (Table IIIB),null,3135,347133,20629550,II,Deposits and Withdrawals of Operating Cash,182,2024,4,2024,3,07,03
+2024-07-03,Treasury General Account Total Withdrawals,Withdrawals,null,null,42701,534382,26130620,II,Deposits and Withdrawals of Operating Cash,183,2024,4,2024,3,07,03
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Agriculture (USDA) - misc,null,7,101,2903,II,Deposits and Withdrawals of Operating Cash,1,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,USDA - Commodity Credit Corporation,null,25,125,5715,II,Deposits and Withdrawals of Operating Cash,2,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,USDA - Federal Crop Insurance Corp Fund,null,0,0,3121,II,Deposits and Withdrawals of Operating Cash,3,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,USDA - Loan Repayments,null,16,583,7239,II,Deposits and Withdrawals of Operating Cash,4,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Commerce (DOC),null,21,74,3812,II,Deposits and Withdrawals of Operating Cash,5,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Defense (DoD),null,80,288,12233,II,Deposits and Withdrawals of Operating Cash,6,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Education (ED),null,171,897,48575,II,Deposits and Withdrawals of Operating Cash,7,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Energy (DOE),null,37,137,6433,II,Deposits and Withdrawals of Operating Cash,8,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Health & Human Serv (HHS) - misc,null,11,53,4867,II,Deposits and Withdrawals of Operating Cash,9,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,HHS - Marketplace Receipts,null,1,3,424,II,Deposits and Withdrawals of Operating Cash,10,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,HHS - Medicare Premiums,null,59,498,42355,II,Deposits and Withdrawals of Operating Cash,11,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Homeland Security (DHS) - misc,null,47,197,5412,II,Deposits and Withdrawals of Operating Cash,12,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DHS - Customs and Certain Excise Taxes,null,125,544,69830,II,Deposits and Withdrawals of Operating Cash,13,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DHS - Fed Emergency Mgmt Agency (FEMA),null,14,75,2529,II,Deposits and Withdrawals of Operating Cash,14,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DHS - Seized Assets,null,2,11,1517,II,Deposits and Withdrawals of Operating Cash,15,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DHS - Transportation Security Admn (TSA),null,2,9,3621,II,Deposits and Withdrawals of Operating Cash,16,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Housing & Urban Dev (HUD) - misc,null,4,22,4545,II,Deposits and Withdrawals of Operating Cash,17,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,HUD - Federal Housing Admin (FHA),null,273,568,16660,II,Deposits and Withdrawals of Operating Cash,18,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Interior (DOI) - misc,null,1,18,1420,II,Deposits and Withdrawals of Operating Cash,19,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DOI - Fish and Wildlife and Parks,null,4,21,526,II,Deposits and Withdrawals of Operating Cash,20,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DOI - Gas and Oil Lease Sales Proceeds,null,6,404,12424,II,Deposits and Withdrawals of Operating Cash,21,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DOI - Land and Minerals Management,null,5,24,701,II,Deposits and Withdrawals of Operating Cash,22,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DOI - Water and Science,null,2,15,694,II,Deposits and Withdrawals of Operating Cash,23,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Justice (DOJ),null,17,114,10350,II,Deposits and Withdrawals of Operating Cash,24,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Labor (DOL) - misc,null,2,8,409,II,Deposits and Withdrawals of Operating Cash,25,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,DOL - Pension Benefit Guaranty Corp.,null,4,20,8850,II,Deposits and Withdrawals of Operating Cash,26,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of State (DOS),null,7,57,2591,II,Deposits and Withdrawals of Operating Cash,27,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Transportation (DOT),null,3,130,1987,II,Deposits and Withdrawals of Operating Cash,28,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Treasury (TREAS) - misc,null,5,9,1983,II,Deposits and Withdrawals of Operating Cash,29,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,TREAS - Bureau of Engraving and Printing,null,0,0,911,II,Deposits and Withdrawals of Operating Cash,30,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,TREAS - Comptroller of the Currency,null,0,0,904,II,Deposits and Withdrawals of Operating Cash,31,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,TREAS - Federal Financing Bank,null,0,7,1633,II,Deposits and Withdrawals of Operating Cash,32,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,TREAS - GSE Proceeds,null,0,1,4865,II,Deposits and Withdrawals of Operating Cash,33,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,TREAS - United States Mint,null,3,39,3105,II,Deposits and Withdrawals of Operating Cash,34,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Corporate Income,null,193,1700,408151,II,Deposits and Withdrawals of Operating Cash,35,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Estate and Gift,null,10,214,20423,II,Deposits and Withdrawals of Operating Cash,36,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Federal Unemployment (FUTA),null,4,15,7384,II,Deposits and Withdrawals of Operating Cash,37,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,"Taxes - IRS Collected Estate, Gift, misc",null,3,16,5165,II,Deposits and Withdrawals of Operating Cash,38,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Miscellaneous Excise,null,110,218,65830,II,Deposits and Withdrawals of Operating Cash,39,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Electronic,null,482,2124,499955,II,Deposits and Withdrawals of Operating Cash,40,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Non Withheld Ind/SECA Other,null,317,2373,399520,II,Deposits and Withdrawals of Operating Cash,41,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Railroad Retirement,null,19,86,5207,II,Deposits and Withdrawals of Operating Cash,42,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Taxes - Withheld Individual/FICA,null,8409,68777,2525512,II,Deposits and Withdrawals of Operating Cash,43,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Dept of Veterans Affairs (VA),null,39,186,5746,II,Deposits and Withdrawals of Operating Cash,44,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,District of Columbia,null,0,0,283,II,Deposits and Withdrawals of Operating Cash,45,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Environmental Protection Agency (EPA),null,2,13,391,II,Deposits and Withdrawals of Operating Cash,46,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Export-Import Bank,null,0,1,1378,II,Deposits and Withdrawals of Operating Cash,47,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Federal Communications Commission (FCC),null,1,7,1243,II,Deposits and Withdrawals of Operating Cash,48,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,FCC - Universal Service Fund,null,13,28,6325,II,Deposits and Withdrawals of Operating Cash,49,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Federal Deposit Insurance Corp (FDIC),null,0,6,62431,II,Deposits and Withdrawals of Operating Cash,50,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Federal Reserve Earnings,null,0,75,2238,II,Deposits and Withdrawals of Operating Cash,51,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Federal Retirement Thrift Savings Plan,null,87,396,25054,II,Deposits and Withdrawals of Operating Cash,52,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Federal Trade Commission (FTC),null,1,22,521,II,Deposits and Withdrawals of Operating Cash,53,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,General Services Administration (GSA),null,4,37,2085,II,Deposits and Withdrawals of Operating Cash,54,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Independent Agencies - misc,null,3,46,3834,II,Deposits and Withdrawals of Operating Cash,55,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,International Monetary Fund (IMF),null,0,51,7323,II,Deposits and Withdrawals of Operating Cash,56,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Int'l Assistance Programs (IAP) - misc,null,0,0,4,II,Deposits and Withdrawals of Operating Cash,57,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,IAP - Agency for Int'l Development (AID),null,0,3,137,II,Deposits and Withdrawals of Operating Cash,58,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,IAP - Foreign Military Sales,null,36,2008,39136,II,Deposits and Withdrawals of Operating Cash,59,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,IAP - US Int'l Devlop Finance Corp (DFC),null,4,13,1644,II,Deposits and Withdrawals of Operating Cash,60,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Judicial Branch - Courts,null,6,17,1693,II,Deposits and Withdrawals of Operating Cash,61,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Legislative Branch - misc,null,0,1,44,II,Deposits and Withdrawals of Operating Cash,62,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Legislative Branch - Library of Congress,null,0,1,159,II,Deposits and Withdrawals of Operating Cash,63,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,National Credit Union Admin (NCUA),null,0,0,931,II,Deposits and Withdrawals of Operating Cash,64,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,National Science Foundation (NSF),null,3,3,67,II,Deposits and Withdrawals of Operating Cash,65,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Office of Personnel Mgmt (OPM) - misc,null,0,0,6,II,Deposits and Withdrawals of Operating Cash,66,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,OPM - Federal Employee Insurance Receipt,null,0,14,3380,II,Deposits and Withdrawals of Operating Cash,67,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,RRB - Natl Railroad Retirement Inv Trust,null,0,182,1001,II,Deposits and Withdrawals of Operating Cash,68,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,RRB - Unemployment Insurance,null,0,0,168,II,Deposits and Withdrawals of Operating Cash,69,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Securities and Exchange Commission (SEC),null,1,4,2058,II,Deposits and Withdrawals of Operating Cash,70,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Small Business Administration (SBA),null,110,518,17995,II,Deposits and Withdrawals of Operating Cash,71,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Social Security Admin (SSA) - misc,null,5,31,740,II,Deposits and Withdrawals of Operating Cash,72,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,SSA - Supplemental Security Income,null,0,1,2728,II,Deposits and Withdrawals of Operating Cash,73,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,State Unemployment Insurance Deposits,null,19,72,34479,II,Deposits and Withdrawals of Operating Cash,74,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,United States Postal Service (USPS),null,453,1695,75064,II,Deposits and Withdrawals of Operating Cash,75,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,US Army Corps of Engineers,null,1,9,1129,II,Deposits and Withdrawals of Operating Cash,76,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Unclassified - Deposits,null,12,42,2043,II,Deposits and Withdrawals of Operating Cash,77,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Deposits,Public Debt Cash Issues (Table IIIB),null,217830,645268,21912721,II,Deposits and Withdrawals of Operating Cash,79,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account Total Deposits,Deposits,null,null,229133,731325,26448471,II,Deposits and Withdrawals of Operating Cash,80,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Corporation for Public Broadcasting,null,0,0,585,II,Deposits and Withdrawals of Operating Cash,81,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Agriculture (USDA) - misc,null,94,393,20581,II,Deposits and Withdrawals of Operating Cash,82,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,USDA - Child Nutrition,null,36,138,24907,II,Deposits and Withdrawals of Operating Cash,83,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,USDA - Commodity Credit Corporation,null,7,22,8985,II,Deposits and Withdrawals of Operating Cash,84,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,USDA - Federal Crop Insurance Corp Fund,null,61,135,14612,II,Deposits and Withdrawals of Operating Cash,85,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,USDA - Loan Payments,null,31,136,9928,II,Deposits and Withdrawals of Operating Cash,86,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,USDA - Other Farm Service,null,0,9,3913,II,Deposits and Withdrawals of Operating Cash,87,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (SNAP),null,643,1665,81589,II,Deposits and Withdrawals of Operating Cash,88,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,USDA - Supp Nutrition Assist Prog (WIC),null,40,148,5544,II,Deposits and Withdrawals of Operating Cash,89,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Commerce (DOC),null,20,108,7084,II,Deposits and Withdrawals of Operating Cash,90,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Defense (DoD) - misc,null,1490,5631,340415,II,Deposits and Withdrawals of Operating Cash,91,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DoD - Military Active Duty Pay,null,18,4490,74332,II,Deposits and Withdrawals of Operating Cash,92,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DoD - Military Retirement,null,1,5780,52348,II,Deposits and Withdrawals of Operating Cash,93,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Education (ED),null,523,1973,183351,II,Deposits and Withdrawals of Operating Cash,94,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Energy (DOE),null,412,1090,45051,II,Deposits and Withdrawals of Operating Cash,95,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Health & Human Serv (HHS) - misc,null,18,163,7196,II,Deposits and Withdrawals of Operating Cash,96,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Centers for Disease Control (CDC),null,71,238,12943,II,Deposits and Withdrawals of Operating Cash,97,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Federal Hospital Insr Trust Fund,null,628,25113,320620,II,Deposits and Withdrawals of Operating Cash,98,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Federal Supple Med Insr Trust Fund,null,845,36061,405597,II,Deposits and Withdrawals of Operating Cash,99,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Grants to States for Medicaid,null,1989,9112,466496,II,Deposits and Withdrawals of Operating Cash,100,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Health Resources & Services Admin,null,33,188,10732,II,Deposits and Withdrawals of Operating Cash,101,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Indian Health Service,null,16,37,7101,II,Deposits and Withdrawals of Operating Cash,102,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Marketplace Payments,null,0,0,93093,II,Deposits and Withdrawals of Operating Cash,103,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Medicare Prescription Drugs,null,0,12023,93250,II,Deposits and Withdrawals of Operating Cash,104,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - National Institutes of Health,null,107,594,33712,II,Deposits and Withdrawals of Operating Cash,105,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Other Public Health Services,null,40,129,8849,II,Deposits and Withdrawals of Operating Cash,106,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Othr Admin for Children & Families,null,102,404,22287,II,Deposits and Withdrawals of Operating Cash,107,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Othr Cent Medicare & Medicaid Serv,null,88,852,26624,II,Deposits and Withdrawals of Operating Cash,108,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Payments to States,null,242,693,26416,II,Deposits and Withdrawals of Operating Cash,109,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HHS - Temp Assistance for Needy Families,null,210,571,13565,II,Deposits and Withdrawals of Operating Cash,110,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Homeland Security (DHS) - misc,null,97,265,12822,II,Deposits and Withdrawals of Operating Cash,111,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DHS - Customs & Border Protection (CBP),null,80,122,7950,II,Deposits and Withdrawals of Operating Cash,112,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DHS - Fed Emergency Mgmt Agency (FEMA),null,144,408,24314,II,Deposits and Withdrawals of Operating Cash,113,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DHS - Transportation Security Admn (TSA),null,9,26,1919,II,Deposits and Withdrawals of Operating Cash,114,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Housing & Urban Dev (HUD) - misc,null,327,4918,64907,II,Deposits and Withdrawals of Operating Cash,115,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,HUD - Federal Housing Admin (FHA),null,117,544,13738,II,Deposits and Withdrawals of Operating Cash,116,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Interior (DOI) - misc,null,65,231,13308,II,Deposits and Withdrawals of Operating Cash,117,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOI - Fish and Wildlife and Parks,null,9,69,4079,II,Deposits and Withdrawals of Operating Cash,118,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOI - Land and Minerals Management,null,27,46,1851,II,Deposits and Withdrawals of Operating Cash,119,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOI - Water and Science,null,6,43,2336,II,Deposits and Withdrawals of Operating Cash,120,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Justice (DOJ),null,85,334,17439,II,Deposits and Withdrawals of Operating Cash,121,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Labor (DOL) - misc,null,76,246,13215,II,Deposits and Withdrawals of Operating Cash,122,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOL - Pension Benefit Guaranty Corp.,null,1,92,6077,II,Deposits and Withdrawals of Operating Cash,123,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOL - Unemployment Benefits,null,89,646,28582,II,Deposits and Withdrawals of Operating Cash,124,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of State (DOS),null,26,265,15332,II,Deposits and Withdrawals of Operating Cash,125,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Transportation (DOT) - misc,null,22,42,3633,II,Deposits and Withdrawals of Operating Cash,126,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOT - Federal Aviation Administration,null,27,250,9658,II,Deposits and Withdrawals of Operating Cash,127,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOT - Federal Highway Administration,null,472,954,42318,II,Deposits and Withdrawals of Operating Cash,128,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOT - Federal Railroad Administration,null,2,67,3418,II,Deposits and Withdrawals of Operating Cash,129,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,DOT - Federal Transit Administration,null,15,258,15444,II,Deposits and Withdrawals of Operating Cash,130,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Treasury (TREAS) - misc,null,15,27,3106,II,Deposits and Withdrawals of Operating Cash,131,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,TREAS - Bureau of Engraving and Printing,null,3,4,504,II,Deposits and Withdrawals of Operating Cash,132,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,TREAS - Claims Judgments and Relief Acts,null,0,2,1462,II,Deposits and Withdrawals of Operating Cash,133,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,TREAS - Comptroller of the Currency,null,0,2,260,II,Deposits and Withdrawals of Operating Cash,134,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,TREAS - Federal Financing Bank,null,33,46,46769,II,Deposits and Withdrawals of Operating Cash,135,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,TREAS - IRS Refunds for Puerto Rico,null,5,5,824,II,Deposits and Withdrawals of Operating Cash,136,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,TREAS - Pmt to Resolution Funding Corp,null,0,0,704,II,Deposits and Withdrawals of Operating Cash,137,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,TREAS - United States Mint,null,27,40,2877,II,Deposits and Withdrawals of Operating Cash,138,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Taxes - Business Tax Refunds (EFT),null,28,188,14672,II,Deposits and Withdrawals of Operating Cash,139,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Taxes - Individual Tax Refunds (EFT),null,70,1116,287165,II,Deposits and Withdrawals of Operating Cash,140,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,ESF - Economic Recovery Programs,null,0,0,-8411,II,Deposits and Withdrawals of Operating Cash,141,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Dept of Veterans Affairs (VA),null,563,1916,70382,II,Deposits and Withdrawals of Operating Cash,142,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,VA - Benefits,null,185,13870,134845,II,Deposits and Withdrawals of Operating Cash,143,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,District of Columbia,null,1,34,348,II,Deposits and Withdrawals of Operating Cash,144,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Environmental Protection Agency (EPA),null,21,85,10919,II,Deposits and Withdrawals of Operating Cash,145,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Export-Import Bank,null,1,6,460,II,Deposits and Withdrawals of Operating Cash,146,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Federal Communications Commission (FCC),null,6,16,8545,II,Deposits and Withdrawals of Operating Cash,147,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,FCC - Universal Service Fund,null,17,60,6472,II,Deposits and Withdrawals of Operating Cash,148,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Federal Deposit Insurance Corp (FDIC),null,6,15,66565,II,Deposits and Withdrawals of Operating Cash,149,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Federal Retirement Thrift Savings Plan,null,325,785,44151,II,Deposits and Withdrawals of Operating Cash,150,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Federal Salaries (EFT),null,4824,5666,181821,II,Deposits and Withdrawals of Operating Cash,151,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Federal Trade Commission (FTC),null,0,2,423,II,Deposits and Withdrawals of Operating Cash,152,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,General Services Administration (GSA),null,148,1037,27365,II,Deposits and Withdrawals of Operating Cash,153,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Independent Agencies - misc,null,35,247,5235,II,Deposits and Withdrawals of Operating Cash,154,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Interest on Treasury Securities,null,8,15388,367063,II,Deposits and Withdrawals of Operating Cash,155,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,International Monetary Fund (IMF),null,0,46,4656,II,Deposits and Withdrawals of Operating Cash,156,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Int'l Assistance Programs (IAP) - misc,null,1,4,575,II,Deposits and Withdrawals of Operating Cash,157,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,IAP - Agency for Int'l Development (AID),null,126,312,15459,II,Deposits and Withdrawals of Operating Cash,158,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,IAP - Foreign Military Sales,null,25,183,23109,II,Deposits and Withdrawals of Operating Cash,159,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,IAP - Multilateral Assistance,null,197,197,2495,II,Deposits and Withdrawals of Operating Cash,160,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,IAP - US Int'l Devlop Finance Corp (DFC),null,2,5,2439,II,Deposits and Withdrawals of Operating Cash,161,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Judicial Branch - Courts,null,8,27,1926,II,Deposits and Withdrawals of Operating Cash,162,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Legislative Branch - misc,null,4,31,1387,II,Deposits and Withdrawals of Operating Cash,163,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Legislative Branch - Library of Congress,null,1,13,489,II,Deposits and Withdrawals of Operating Cash,164,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,NASA,null,78,404,17280,II,Deposits and Withdrawals of Operating Cash,165,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,National Credit Union Admin (NCUA),null,0,1,468,II,Deposits and Withdrawals of Operating Cash,166,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,National Science Foundation (NSF),null,18,231,6330,II,Deposits and Withdrawals of Operating Cash,167,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Office of Personnel Mgmt (OPM) - misc,null,1,11,412,II,Deposits and Withdrawals of Operating Cash,168,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,OPM - Civil Serv Retirement & Disability,null,3,7062,70741,II,Deposits and Withdrawals of Operating Cash,169,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,OPM - Federal Employee Insurance Payment,null,362,1343,78526,II,Deposits and Withdrawals of Operating Cash,170,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Railroad Retirement Board (RRB) - misc,null,1,4,47,II,Deposits and Withdrawals of Operating Cash,171,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,RRB - Benefit Payments,null,1,1279,12836,II,Deposits and Withdrawals of Operating Cash,172,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Securities and Exchange Commission (SEC),null,4,8,1277,II,Deposits and Withdrawals of Operating Cash,173,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Small Business Administration (SBA),null,19,89,5296,II,Deposits and Withdrawals of Operating Cash,174,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Social Security Admin (SSA) - misc,null,16,64,3937,II,Deposits and Withdrawals of Operating Cash,175,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,SSA - Benefits Payments,null,88,25202,988594,II,Deposits and Withdrawals of Operating Cash,176,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,SSA - Supplemental Security Income,null,12,5026,46515,II,Deposits and Withdrawals of Operating Cash,177,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,United States Postal Service (USPS),null,211,968,34219,II,Deposits and Withdrawals of Operating Cash,178,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,US Army Corps of Engineers,null,142,428,19742,II,Deposits and Withdrawals of Operating Cash,179,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Unclassified,null,928,4059,181770,II,Deposits and Withdrawals of Operating Cash,180,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account (TGA),Withdrawals,Public Debt Cash Redemp. (Table IIIB),null,224553,571686,20854103,II,Deposits and Withdrawals of Operating Cash,182,2024,4,2024,3,07,05
+2024-07-05,Treasury General Account Total Withdrawals,Withdrawals,null,null,242582,776964,26373202,II,Deposits and Withdrawals of Operating Cash,183,2024,4,2024,3,07,05

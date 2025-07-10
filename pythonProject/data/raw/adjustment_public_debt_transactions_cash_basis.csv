@@ -1,0 +1,53 @@
+record_date,transaction_type,adj_type,adj_type_desc,adj_today_amt,adj_mtd_amt,adj_fytd_amt,table_nbr,table_nm,sub_table_name,src_line_nbr,record_fiscal_year,record_fiscal_quarter,record_calendar_year,record_calendar_quarter,record_calendar_month,record_calendar_day
+2024-07-01,Issues,Public Debt Issues (Table IIIA),null,818709,818709,133529179,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2024,4,2024,3,07,01
+2024-07-01,Issues,Premium on New Issues,null,304,304,8632,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2024,4,2024,3,07,01
+2024-07-01,Issues,Bills (-),Discount on New Issues,0,0,234471,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2024,4,2024,3,07,01
+2024-07-01,Issues,Bonds and Notes (-),Discount on New Issues,442,442,19870,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2024,4,2024,3,07,01
+2024-07-01,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2024,4,2024,3,07,01
+2024-07-01,Issues,Government Account Transactions (-),null,612895,612895,111755067,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2024,4,2024,3,07,01
+2024-07-01,Issues,Interest Increment on United States Savings Securities (-),null,293,293,5630,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2024,4,2024,3,07,01
+2024-07-01,Issues,Inflation-Protected Securities Increment (-),null,797,797,50734,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Public Debt Redemptions (Table IIIA),null,809284,809284,131855454,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Premium on Debt Buyback Operation,null,0,0,2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,976,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Federal Financing Bank (-),null,0,0,978,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Government Account Transactions (-),null,677039,677039,111438838,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2024,4,2024,3,07,01
+2024-07-02,Issues,Public Debt Issues (Table IIIA),null,898285,1716995,134427465,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2024,4,2024,3,07,02
+2024-07-02,Issues,Premium on New Issues,null,0,304,8632,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2024,4,2024,3,07,02
+2024-07-02,Issues,Bills (-),Discount on New Issues,1982,1982,236453,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2024,4,2024,3,07,02
+2024-07-02,Issues,Bonds and Notes (-),Discount on New Issues,0,442,19870,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2024,4,2024,3,07,02
+2024-07-02,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2024,4,2024,3,07,02
+2024-07-02,Issues,Government Account Transactions (-),null,675929,1288824,112430996,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2024,4,2024,3,07,02
+2024-07-02,Issues,Interest Increment on United States Savings Securities (-),null,214,507,5844,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2024,4,2024,3,07,02
+2024-07-02,Issues,Inflation-Protected Securities Increment (-),null,109,906,50843,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Public Debt Redemptions (Table IIIA),null,873305,1682589,132728758,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Premium on Debt Buyback Operation,null,0,0,2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,976,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Federal Financing Bank (-),null,0,0,978,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Government Account Transactions (-),null,661552,1338591,112100391,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2024,4,2024,3,07,02
+2024-07-03,Issues,Public Debt Issues (Table IIIA),null,611668,2328663,135039133,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2024,4,2024,3,07,03
+2024-07-03,Issues,Premium on New Issues,null,0,304,8632,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2024,4,2024,3,07,03
+2024-07-03,Issues,Bills (-),Discount on New Issues,0,1982,236453,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2024,4,2024,3,07,03
+2024-07-03,Issues,Bonds and Notes (-),Discount on New Issues,0,442,19870,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2024,4,2024,3,07,03
+2024-07-03,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2024,4,2024,3,07,03
+2024-07-03,Issues,Government Account Transactions (-),null,608754,1897577,113039750,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2024,4,2024,3,07,03
+2024-07-03,Issues,Interest Increment on United States Savings Securities (-),null,2,509,5845,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2024,4,2024,3,07,03
+2024-07-03,Issues,Inflation-Protected Securities Increment (-),null,113,1019,50956,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Public Debt Redemptions (Table IIIA),null,630139,2312728,133358898,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Premium on Debt Buyback Operation,null,0,0,2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Discount on Debt Buyback Operation (-),null,547,547,1523,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Federal Financing Bank (-),null,0,0,978,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Government Account Transactions (-),null,626457,1965048,112726848,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2024,4,2024,3,07,03
+2024-07-05,Issues,Public Debt Issues (Table IIIA),null,847544,3176207,135886677,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2024,4,2024,3,07,05
+2024-07-05,Issues,Premium on New Issues,null,0,304,8632,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2024,4,2024,3,07,05
+2024-07-05,Issues,Bills (-),Discount on New Issues,3317,5299,239770,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2024,4,2024,3,07,05
+2024-07-05,Issues,Bonds and Notes (-),Discount on New Issues,0,442,19870,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2024,4,2024,3,07,05
+2024-07-05,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2024,4,2024,3,07,05
+2024-07-05,Issues,Government Account Transactions (-),null,626176,2523753,113665925,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2024,4,2024,3,07,05
+2024-07-05,Issues,Interest Increment on United States Savings Securities (-),null,2,510,5847,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2024,4,2024,3,07,05
+2024-07-05,Issues,Inflation-Protected Securities Increment (-),null,220,1239,51176,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Public Debt Redemptions (Table IIIA),null,842912,3155640,134201810,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Premium on Debt Buyback Operation,null,0,0,2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Discount on Debt Buyback Operation (-),null,0,547,1523,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Federal Financing Bank (-),null,0,0,978,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Government Account Transactions (-),null,618359,2583407,113345207,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2024,4,2024,3,07,05

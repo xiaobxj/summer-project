@@ -1,0 +1,93 @@
+record_date,transaction_type,security_market,security_type,security_type_desc,transaction_today_amt,transaction_mtd_amt,transaction_fytd_amt,table_nbr,table_nm,src_line_nbr,record_fiscal_year,record_fiscal_quarter,record_calendar_year,record_calendar_quarter,record_calendar_month,record_calendar_day
+2024-07-01,Issues,Marketable,Bills,Regular Series,-7,-7,15108606,IIIA,Public Debt Transactions,1,2024,4,2024,3,07,01
+2024-07-01,Issues,Marketable,Bills,Cash Management Series,0,0,2780035,IIIA,Public Debt Transactions,2,2024,4,2024,3,07,01
+2024-07-01,Issues,Marketable,Notes,null,189364,189364,2919114,IIIA,Public Debt Transactions,3,2024,4,2024,3,07,01
+2024-07-01,Issues,Marketable,Bonds,null,13453,13453,359170,IIIA,Public Debt Transactions,4,2024,4,2024,3,07,01
+2024-07-01,Issues,Marketable,Inflation-Protected Securities Increment,null,797,797,51693,IIIA,Public Debt Transactions,5,2024,4,2024,3,07,01
+2024-07-01,Issues,Marketable,Federal Financing Bank,null,0,0,0,IIIA,Public Debt Transactions,6,2024,4,2024,3,07,01
+2024-07-01,Issues,Nonmarketable,United States Savings Securities,Cash Issue Price,9,9,3241,IIIA,Public Debt Transactions,7,2024,4,2024,3,07,01
+2024-07-01,Issues,Nonmarketable,United States Savings Securities,Interest Increment,293,293,5630,IIIA,Public Debt Transactions,8,2024,4,2024,3,07,01
+2024-07-01,Issues,Nonmarketable,Government Account Series,null,612895,612895,111755067,IIIA,Public Debt Transactions,9,2024,4,2024,3,07,01
+2024-07-01,Issues,Nonmarketable,Domestic Series,null,2,2,237,IIIA,Public Debt Transactions,10,2024,4,2024,3,07,01
+2024-07-01,Issues,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,11,2024,4,2024,3,07,01
+2024-07-01,Issues,Nonmarketable,State and Local Series,null,318,318,89864,IIIA,Public Debt Transactions,12,2024,4,2024,3,07,01
+2024-07-01,Issues,Nonmarketable,Other,null,1587,1587,456522,IIIA,Public Debt Transactions,13,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Marketable,Bills,null,0,0,17383225,IIIA,Public Debt Transactions,15,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Marketable,Notes,null,124262,124262,2456131,IIIA,Public Debt Transactions,16,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Marketable,Bonds,null,0,0,2628,IIIA,Public Debt Transactions,17,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Marketable,Federal Financing Bank,null,0,0,978,IIIA,Public Debt Transactions,18,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Nonmarketable,United States Savings Securities,null,92,92,20453,IIIA,Public Debt Transactions,19,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Nonmarketable,Government Account Series,null,677039,677039,111436707,IIIA,Public Debt Transactions,20,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Nonmarketable,Domestic Series,null,0,0,7463,IIIA,Public Debt Transactions,21,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,22,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Nonmarketable,State and Local Series,null,6314,6314,91751,IIIA,Public Debt Transactions,23,2024,4,2024,3,07,01
+2024-07-01,Redemptions,Nonmarketable,Other,null,1578,1578,456117,IIIA,Public Debt Transactions,24,2024,4,2024,3,07,01
+2024-07-02,Issues,Marketable,Bills,Regular Series,215576,215569,15324182,IIIA,Public Debt Transactions,1,2024,4,2024,3,07,02
+2024-07-02,Issues,Marketable,Bills,Cash Management Series,0,0,2780035,IIIA,Public Debt Transactions,2,2024,4,2024,3,07,02
+2024-07-02,Issues,Marketable,Notes,null,-2,189362,2919112,IIIA,Public Debt Transactions,3,2024,4,2024,3,07,02
+2024-07-02,Issues,Marketable,Bonds,null,0,13452,359170,IIIA,Public Debt Transactions,4,2024,4,2024,3,07,02
+2024-07-02,Issues,Marketable,Inflation-Protected Securities Increment,null,109,906,51803,IIIA,Public Debt Transactions,5,2024,4,2024,3,07,02
+2024-07-02,Issues,Marketable,Federal Financing Bank,null,0,0,0,IIIA,Public Debt Transactions,6,2024,4,2024,3,07,02
+2024-07-02,Issues,Nonmarketable,United States Savings Securities,Cash Issue Price,7,16,3247,IIIA,Public Debt Transactions,7,2024,4,2024,3,07,02
+2024-07-02,Issues,Nonmarketable,United States Savings Securities,Interest Increment,214,507,5844,IIIA,Public Debt Transactions,8,2024,4,2024,3,07,02
+2024-07-02,Issues,Nonmarketable,Government Account Series,null,675929,1288824,112430996,IIIA,Public Debt Transactions,9,2024,4,2024,3,07,02
+2024-07-02,Issues,Nonmarketable,Domestic Series,null,1,2,237,IIIA,Public Debt Transactions,10,2024,4,2024,3,07,02
+2024-07-02,Issues,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,11,2024,4,2024,3,07,02
+2024-07-02,Issues,Nonmarketable,State and Local Series,null,643,961,90507,IIIA,Public Debt Transactions,12,2024,4,2024,3,07,02
+2024-07-02,Issues,Nonmarketable,Other,null,5809,7396,462332,IIIA,Public Debt Transactions,13,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Marketable,Bills,null,205565,205565,17588790,IIIA,Public Debt Transactions,15,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Marketable,Notes,null,0,124262,2456131,IIIA,Public Debt Transactions,16,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Marketable,Bonds,null,0,0,2628,IIIA,Public Debt Transactions,17,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Marketable,Federal Financing Bank,null,0,0,978,IIIA,Public Debt Transactions,18,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Nonmarketable,United States Savings Securities,null,108,200,20561,IIIA,Public Debt Transactions,19,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Nonmarketable,Government Account Series,null,661552,1338591,112098260,IIIA,Public Debt Transactions,20,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Nonmarketable,Domestic Series,null,0,0,7463,IIIA,Public Debt Transactions,21,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,22,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Nonmarketable,State and Local Series,null,260,6573,92011,IIIA,Public Debt Transactions,23,2024,4,2024,3,07,02
+2024-07-02,Redemptions,Nonmarketable,Other,null,5820,7398,461937,IIIA,Public Debt Transactions,24,2024,4,2024,3,07,02
+2024-07-03,Issues,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,11,2024,4,2024,3,07,03
+2024-07-03,Issues,Nonmarketable,State and Local Series,null,1349,2310,91856,IIIA,Public Debt Transactions,12,2024,4,2024,3,07,03
+2024-07-03,Issues,Nonmarketable,Other,null,1459,8855,463790,IIIA,Public Debt Transactions,13,2024,4,2024,3,07,03
+2024-07-03,Issues,Nonmarketable,Domestic Series,null,1,3,238,IIIA,Public Debt Transactions,10,2024,4,2024,3,07,03
+2024-07-03,Issues,Marketable,Bills,Regular Series,-10,215559,15324172,IIIA,Public Debt Transactions,1,2024,4,2024,3,07,03
+2024-07-03,Issues,Marketable,Bills,Cash Management Series,0,0,2780035,IIIA,Public Debt Transactions,2,2024,4,2024,3,07,03
+2024-07-03,Issues,Marketable,Notes,null,-2,189360,2919110,IIIA,Public Debt Transactions,3,2024,4,2024,3,07,03
+2024-07-03,Issues,Marketable,Bonds,null,0,13452,359169,IIIA,Public Debt Transactions,4,2024,4,2024,3,07,03
+2024-07-03,Issues,Marketable,Inflation-Protected Securities Increment,null,113,1019,51916,IIIA,Public Debt Transactions,5,2024,4,2024,3,07,03
+2024-07-03,Issues,Marketable,Federal Financing Bank,null,0,0,0,IIIA,Public Debt Transactions,6,2024,4,2024,3,07,03
+2024-07-03,Issues,Nonmarketable,United States Savings Securities,Cash Issue Price,4,19,3251,IIIA,Public Debt Transactions,7,2024,4,2024,3,07,03
+2024-07-03,Issues,Nonmarketable,United States Savings Securities,Interest Increment,2,509,5845,IIIA,Public Debt Transactions,8,2024,4,2024,3,07,03
+2024-07-03,Issues,Nonmarketable,Government Account Series,null,608754,1897577,113039750,IIIA,Public Debt Transactions,9,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Marketable,Bills,null,0,205565,17588790,IIIA,Public Debt Transactions,15,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Marketable,Notes,null,0,124262,2456131,IIIA,Public Debt Transactions,16,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Marketable,Bonds,null,2000,2000,4628,IIIA,Public Debt Transactions,17,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Marketable,Federal Financing Bank,null,0,0,978,IIIA,Public Debt Transactions,18,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Nonmarketable,United States Savings Securities,null,121,322,20682,IIIA,Public Debt Transactions,19,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Nonmarketable,Government Account Series,null,626457,1965048,112724717,IIIA,Public Debt Transactions,20,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Nonmarketable,Domestic Series,null,0,0,7463,IIIA,Public Debt Transactions,21,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,22,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Nonmarketable,State and Local Series,null,90,6663,92101,IIIA,Public Debt Transactions,23,2024,4,2024,3,07,03
+2024-07-03,Redemptions,Nonmarketable,Other,null,1471,8869,463408,IIIA,Public Debt Transactions,24,2024,4,2024,3,07,03
+2024-07-05,Issues,Marketable,Bonds,null,0,13452,359169,IIIA,Public Debt Transactions,4,2024,4,2024,3,07,05
+2024-07-05,Issues,Marketable,Bills,Regular Series,151824,367383,15475996,IIIA,Public Debt Transactions,1,2024,4,2024,3,07,05
+2024-07-05,Issues,Marketable,Bills,Cash Management Series,65001,65001,2845036,IIIA,Public Debt Transactions,2,2024,4,2024,3,07,05
+2024-07-05,Issues,Marketable,Notes,null,0,189360,2919110,IIIA,Public Debt Transactions,3,2024,4,2024,3,07,05
+2024-07-05,Issues,Marketable,Inflation-Protected Securities Increment,null,220,1239,52136,IIIA,Public Debt Transactions,5,2024,4,2024,3,07,05
+2024-07-05,Issues,Marketable,Federal Financing Bank,null,0,0,0,IIIA,Public Debt Transactions,6,2024,4,2024,3,07,05
+2024-07-05,Issues,Nonmarketable,United States Savings Securities,Cash Issue Price,6,25,3256,IIIA,Public Debt Transactions,7,2024,4,2024,3,07,05
+2024-07-05,Issues,Nonmarketable,United States Savings Securities,Interest Increment,2,510,5847,IIIA,Public Debt Transactions,8,2024,4,2024,3,07,05
+2024-07-05,Issues,Nonmarketable,Government Account Series,null,626176,2523753,113665925,IIIA,Public Debt Transactions,9,2024,4,2024,3,07,05
+2024-07-05,Issues,Nonmarketable,Domestic Series,null,1,4,239,IIIA,Public Debt Transactions,10,2024,4,2024,3,07,05
+2024-07-05,Issues,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,11,2024,4,2024,3,07,05
+2024-07-05,Issues,Nonmarketable,State and Local Series,null,1733,4043,93590,IIIA,Public Debt Transactions,12,2024,4,2024,3,07,05
+2024-07-05,Issues,Nonmarketable,Other,null,2583,11438,466373,IIIA,Public Debt Transactions,13,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Marketable,Bills,null,221828,427393,17810618,IIIA,Public Debt Transactions,15,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Marketable,Notes,null,0,124262,2456131,IIIA,Public Debt Transactions,16,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Marketable,Bonds,null,0,2000,4628,IIIA,Public Debt Transactions,17,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Marketable,Federal Financing Bank,null,0,0,978,IIIA,Public Debt Transactions,18,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Nonmarketable,United States Savings Securities,null,88,410,20771,IIIA,Public Debt Transactions,19,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Nonmarketable,Government Account Series,null,618359,2583407,113343076,IIIA,Public Debt Transactions,20,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Nonmarketable,Domestic Series,null,0,0,7463,IIIA,Public Debt Transactions,21,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Nonmarketable,Foreign Series,null,0,0,0,IIIA,Public Debt Transactions,22,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Nonmarketable,State and Local Series,null,73,6736,92174,IIIA,Public Debt Transactions,23,2024,4,2024,3,07,05
+2024-07-05,Redemptions,Nonmarketable,Other,null,2563,11432,465971,IIIA,Public Debt Transactions,24,2024,4,2024,3,07,05

@@ -1,0 +1,34 @@
+{
+  "timestamp": "20250702_172123",
+  "forecast_methods": [
+    "Simulated",
+    "ARIMA",
+    "Ensemble"
+  ],
+  "statistics": {
+    "Simulated": {
+      "mean": -2722.2509099842564,
+      "std": 30814.516430788997,
+      "min": -75211.31379400683,
+      "max": 67857.8937540784,
+      "positive_days": 54,
+      "negative_days": 66
+    },
+    "ARIMA": {
+      "mean": NaN,
+      "std": NaN,
+      "min": NaN,
+      "max": NaN,
+      "positive_days": 0,
+      "negative_days": 0
+    },
+    "Ensemble": {
+      "mean": NaN,
+      "std": NaN,
+      "min": NaN,
+      "max": NaN,
+      "positive_days": 0,
+      "negative_days": 0
+    }
+  }
+}

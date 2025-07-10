@@ -1,0 +1,17 @@
+record_date,classification,today_amt,mtd_amt,fytd_amt,table_nbr,table_nm,sub_table_name,src_line_nbr,record_fiscal_year,record_fiscal_quarter,record_calendar_year,record_calendar_quarter,record_calendar_month,record_calendar_day
+2024-07-01,Taxes - Corporate Income,0,0,3,IV,Inter-agency Tax Transfers,Classification,1,2024,4,2024,3,07,01
+2024-07-01,Taxes - Miscellaneous Excise,0,0,6,IV,Inter-agency Tax Transfers,Classification,2,2024,4,2024,3,07,01
+2024-07-01,Taxes - Railroad Retirement,0,0,2,IV,Inter-agency Tax Transfers,Classification,3,2024,4,2024,3,07,01
+2024-07-01,Taxes - Withheld Individual/FICA,1400,1400,107233,IV,Inter-agency Tax Transfers,Classification,4,2024,4,2024,3,07,01
+2024-07-02,Taxes - Corporate Income,0,0,3,IV,Inter-agency Tax Transfers,Classification,1,2024,4,2024,3,07,02
+2024-07-02,Taxes - Miscellaneous Excise,0,0,6,IV,Inter-agency Tax Transfers,Classification,2,2024,4,2024,3,07,02
+2024-07-02,Taxes - Railroad Retirement,0,0,2,IV,Inter-agency Tax Transfers,Classification,3,2024,4,2024,3,07,02
+2024-07-02,Taxes - Withheld Individual/FICA,581,1981,107814,IV,Inter-agency Tax Transfers,Classification,4,2024,4,2024,3,07,02
+2024-07-03,Taxes - Corporate Income,0,0,3,IV,Inter-agency Tax Transfers,Classification,1,2024,4,2024,3,07,03
+2024-07-03,Taxes - Miscellaneous Excise,0,0,6,IV,Inter-agency Tax Transfers,Classification,2,2024,4,2024,3,07,03
+2024-07-03,Taxes - Railroad Retirement,0,0,2,IV,Inter-agency Tax Transfers,Classification,3,2024,4,2024,3,07,03
+2024-07-03,Taxes - Withheld Individual/FICA,2747,4728,110561,IV,Inter-agency Tax Transfers,Classification,4,2024,4,2024,3,07,03
+2024-07-05,Taxes - Corporate Income,0,0,3,IV,Inter-agency Tax Transfers,Classification,1,2024,4,2024,3,07,05
+2024-07-05,Taxes - Miscellaneous Excise,0,0,6,IV,Inter-agency Tax Transfers,Classification,2,2024,4,2024,3,07,05
+2024-07-05,Taxes - Railroad Retirement,0,0,2,IV,Inter-agency Tax Transfers,Classification,3,2024,4,2024,3,07,05
+2024-07-05,Taxes - Withheld Individual/FICA,1306,6034,111867,IV,Inter-agency Tax Transfers,Classification,4,2024,4,2024,3,07,05

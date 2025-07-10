@@ -1,0 +1,11 @@
+{
+  "timestamp": "20250702_171606",
+  "model_type": "ARIMA",
+  "model_order": "(0, 1, 1)",
+  "aic": 11446.304145804748,
+  "forecast_mean": -19112.824153619647,
+  "forecast_std": 3.653232453896153e-12,
+  "positive_days": 0,
+  "negative_days": 120,
+  "data_quality": "Good"
+}

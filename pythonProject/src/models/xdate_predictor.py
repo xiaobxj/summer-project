@@ -99,9 +99,27 @@ class XDatePredictor:
         print(f"Debt ceiling: ${self.debt_ceiling:,.0f} USD (${self.debt_ceiling/1e12:.1f} trillion)")
         print(f"Extraordinary measures: ${self.unconventional_measures:,.0f} USD (${self.unconventional_measures/1e9:.0f} billion)")
         
-        # 4. Calculate current debt headroom
-        current_headroom = self.debt_ceiling - self.current_debt + self.unconventional_measures
-        print(f"Current debt headroom: ${current_headroom:,.0f} USD (${current_headroom/1e9:.1f} billion)")
+        # 4. Calculate current debt situation
+        debt_overage = max(0, self.current_debt - self.debt_ceiling)
+        
+        if debt_overage > 0:
+            # Already exceeded debt ceiling, using extraordinary measures
+            used_measures = min(debt_overage, self.unconventional_measures)
+            remaining_measures = self.unconventional_measures - used_measures
+            current_headroom = remaining_measures
+            
+            print(f"⚠️ Debt ceiling EXCEEDED by: ${debt_overage:,.0f} USD (${debt_overage/1e9:.1f} billion)")
+            print(f"Extraordinary measures already used: ${used_measures:,.0f} USD (${used_measures/1e9:.1f} billion)")
+            print(f"Remaining extraordinary measures: ${remaining_measures:,.0f} USD (${remaining_measures/1e9:.1f} billion)")
+            
+            # Update remaining measures for simulation
+            self.unconventional_measures = remaining_measures
+        else:
+            # Still below debt ceiling
+            current_headroom = self.debt_ceiling - self.current_debt + self.unconventional_measures
+            print(f"Debt headroom available: ${current_headroom:,.0f} USD (${current_headroom/1e9:.1f} billion)")
+        
+        print(f"Effective debt headroom: ${current_headroom:,.0f} USD (${current_headroom/1e9:.1f} billion)")
         
         return {
             'current_debt': self.current_debt,
@@ -183,21 +201,45 @@ class XDatePredictor:
             if cash_balance < self.config['min_operating_cash_usd']:
                 funding_needed = self.config['min_operating_cash_usd'] - cash_balance
                 
-                # First use extraordinary measures
-                if unconventional_remaining > 0:
-                    unconventional_used = min(funding_needed, unconventional_remaining)
-                    unconventional_remaining -= unconventional_used
-                    cash_balance += unconventional_used
-                    funding_needed -= unconventional_used
+                # Check if we can issue new debt (only if below debt ceiling)
+                can_issue_debt = outstanding_debt < self.debt_ceiling
                 
-                # If still need funding, issue new debt
-                if funding_needed > 0:
-                    new_debt_issued = funding_needed
-                    outstanding_debt += new_debt_issued
-                    cash_balance += new_debt_issued
+                if can_issue_debt:
+                    # Can issue new debt normally
+                    debt_capacity = self.debt_ceiling - outstanding_debt
+                    debt_to_issue = min(funding_needed, debt_capacity)
+                    
+                    if debt_to_issue > 0:
+                        new_debt_issued = debt_to_issue
+                        outstanding_debt += new_debt_issued
+                        cash_balance += new_debt_issued
+                        funding_needed -= debt_to_issue
+                    
+                    # If still need more funding after hitting debt ceiling, use extraordinary measures
+                    if funding_needed > 0 and unconventional_remaining > 0:
+                        unconventional_used = min(funding_needed, unconventional_remaining)
+                        unconventional_remaining -= unconventional_used
+                        cash_balance += unconventional_used
+                        funding_needed -= unconventional_used
+                else:
+                    # Already at/above debt ceiling, can only use extraordinary measures
+                    if unconventional_remaining > 0:
+                        unconventional_used = min(funding_needed, unconventional_remaining)
+                        unconventional_remaining -= unconventional_used
+                        cash_balance += unconventional_used
+                        funding_needed -= unconventional_used
+                    
+                    # If still short and no more measures available, this is a crisis
+                    if funding_needed > 0:
+                        # Government cannot meet minimum cash requirements
+                        print(f"⚠️ CRISIS: Cannot meet minimum cash requirement of ${self.config['min_operating_cash_usd']/1e9:.1f}B")
+                        print(f"   Shortfall: ${funding_needed/1e9:.1f}B")
+                        # Continue simulation but flag this as a problem
             
             # Calculate current debt headroom
-            debt_headroom = self.debt_ceiling - outstanding_debt + unconventional_remaining
+            # Headroom = remaining debt capacity + remaining extraordinary measures
+            debt_capacity_remaining = max(0, self.debt_ceiling - outstanding_debt)
+            debt_headroom = debt_capacity_remaining + unconventional_remaining
             
             # Record daily data
             simulation_data.append({
@@ -222,10 +264,13 @@ class XDatePredictor:
             
             # Regular progress output
             if i % 30 == 0 or i < 10:
+                debt_issued_str = f"NewDebt ${new_debt_issued/1e9:4.1f}B" if new_debt_issued > 0 else "NewDebt  0.0B"
+                measures_used_str = f"Measures ${unconventional_used/1e9:4.1f}B" if unconventional_used > 0 else "Measures  0.0B"
                 print(f"Day {i+1:3d} ({date.strftime('%Y-%m-%d')}): "
                       f"Cash ${cash_balance/1e9:6.1f}B, "
                       f"Debt ${outstanding_debt/1e12:5.2f}T, "
-                      f"Headroom ${debt_headroom/1e9:6.1f}B")
+                      f"Headroom ${debt_headroom/1e9:6.1f}B, "
+                      f"{debt_issued_str}, {measures_used_str}")
         
         # Save simulation results
         self.simulation_results = pd.DataFrame(simulation_data)

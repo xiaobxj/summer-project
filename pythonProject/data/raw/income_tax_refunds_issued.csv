@@ -1,0 +1,17 @@
+record_date,tax_refund_type,tax_refund_type_desc,tax_refund_today_amt,tax_refund_mtd_amt,tax_refund_fytd_amt,table_nbr,table_nm,sub_table_name,src_line_nbr,record_fiscal_year,record_fiscal_quarter,record_calendar_year,record_calendar_quarter,record_calendar_month,record_calendar_day
+2024-07-01,Taxes - Business Tax Refunds (Checks),null,19,19,48563,V,Income Tax Refunds Issued,Classification,1,2024,4,2024,3,07,01
+2024-07-01,Taxes - Business Tax Refunds (EFT),null,70,70,14554,V,Income Tax Refunds Issued,Classification,2,2024,4,2024,3,07,01
+2024-07-01,Taxes - Individual Tax Refunds (Checks),null,46,46,53532,V,Income Tax Refunds Issued,Classification,3,2024,4,2024,3,07,01
+2024-07-01,Taxes - Individual Tax Refunds (EFT),null,81,81,286130,V,Income Tax Refunds Issued,Classification,4,2024,4,2024,3,07,01
+2024-07-02,Taxes - Business Tax Refunds (Checks),null,1168,1187,49731,V,Income Tax Refunds Issued,Classification,1,2024,4,2024,3,07,02
+2024-07-02,Taxes - Business Tax Refunds (EFT),null,79,149,14634,V,Income Tax Refunds Issued,Classification,2,2024,4,2024,3,07,02
+2024-07-02,Taxes - Individual Tax Refunds (Checks),null,49,95,53581,V,Income Tax Refunds Issued,Classification,3,2024,4,2024,3,07,02
+2024-07-02,Taxes - Individual Tax Refunds (EFT),null,70,152,286201,V,Income Tax Refunds Issued,Classification,4,2024,4,2024,3,07,02
+2024-07-03,Taxes - Business Tax Refunds (Checks),null,4,1191,49735,V,Income Tax Refunds Issued,Classification,1,2024,4,2024,3,07,03
+2024-07-03,Taxes - Business Tax Refunds (EFT),null,10,159,14643,V,Income Tax Refunds Issued,Classification,2,2024,4,2024,3,07,03
+2024-07-03,Taxes - Individual Tax Refunds (Checks),null,61,156,53642,V,Income Tax Refunds Issued,Classification,3,2024,4,2024,3,07,03
+2024-07-03,Taxes - Individual Tax Refunds (EFT),null,895,1046,287096,V,Income Tax Refunds Issued,Classification,4,2024,4,2024,3,07,03
+2024-07-05,Taxes - Business Tax Refunds (Checks),null,69,1261,49804,V,Income Tax Refunds Issued,Classification,1,2024,4,2024,3,07,05
+2024-07-05,Taxes - Business Tax Refunds (EFT),null,28,188,14672,V,Income Tax Refunds Issued,Classification,2,2024,4,2024,3,07,05
+2024-07-05,Taxes - Individual Tax Refunds (Checks),null,87,243,53729,V,Income Tax Refunds Issued,Classification,3,2024,4,2024,3,07,05
+2024-07-05,Taxes - Individual Tax Refunds (EFT),null,70,1116,287165,V,Income Tax Refunds Issued,Classification,4,2024,4,2024,3,07,05

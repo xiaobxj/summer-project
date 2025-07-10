@@ -1,0 +1,29 @@
+record_date,debt_catg,debt_catg_desc,close_today_bal,open_today_bal,open_month_bal,open_fiscal_year_bal,table_nbr,table_nm,sub_table_name,src_line_nbr,record_fiscal_year,record_fiscal_quarter,record_calendar_year,record_calendar_quarter,record_calendar_month,record_calendar_day
+2024-07-01,Debt Held by the Public,null,27686612,27612897,27612897,26330142,IIIC,Debt Subject to Limit,Balance Transactions,1,2024,4,2024,3,07,01
+2024-07-01,Intragovernmental Holdings,null,7154448,7218738,7218738,6837192,IIIC,Debt Subject to Limit,Balance Transactions,2,2024,4,2024,3,07,01
+2024-07-01,Debt Not Subject to Limit,Other Debt (-),476,476,476,477,IIIC,Debt Subject to Limit,Balance Transactions,4,2024,4,2024,3,07,01
+2024-07-01,Debt Not Subject to Limit,Unamortized Discount (-),108631,108793,108793,90889,IIIC,Debt Subject to Limit,Balance Transactions,5,2024,4,2024,3,07,01
+2024-07-01,Debt Not Subject to Limit,Federal Financing Bank (-),4514,4514,4514,5492,IIIC,Debt Subject to Limit,Balance Transactions,6,2024,4,2024,3,07,01
+2024-07-01,Other Debt Subject to Limit,Guaranteed Debt of Government Agencies,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,7,2024,4,2024,3,07,01
+2024-07-01,Statutory Debt Limit,null,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,9,2024,4,2024,3,07,01
+2024-07-02,Debt Held by the Public,null,27696948,27686612,27612897,26330142,IIIC,Debt Subject to Limit,Balance Transactions,1,2024,4,2024,3,07,02
+2024-07-02,Intragovernmental Holdings,null,7169093,7154448,7218738,6837192,IIIC,Debt Subject to Limit,Balance Transactions,2,2024,4,2024,3,07,02
+2024-07-02,Debt Not Subject to Limit,Other Debt (-),476,476,476,477,IIIC,Debt Subject to Limit,Balance Transactions,4,2024,4,2024,3,07,02
+2024-07-02,Debt Not Subject to Limit,Unamortized Discount (-),109775,108631,108793,90889,IIIC,Debt Subject to Limit,Balance Transactions,5,2024,4,2024,3,07,02
+2024-07-02,Debt Not Subject to Limit,Federal Financing Bank (-),4514,4514,4514,5492,IIIC,Debt Subject to Limit,Balance Transactions,6,2024,4,2024,3,07,02
+2024-07-02,Other Debt Subject to Limit,Guaranteed Debt of Government Agencies,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,7,2024,4,2024,3,07,02
+2024-07-02,Statutory Debt Limit,null,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,9,2024,4,2024,3,07,02
+2024-07-03,Debt Held by the Public,null,27696496,27696948,27612897,26330142,IIIC,Debt Subject to Limit,Balance Transactions,1,2024,4,2024,3,07,03
+2024-07-03,Intragovernmental Holdings,null,7151073,7169093,7218738,6837192,IIIC,Debt Subject to Limit,Balance Transactions,2,2024,4,2024,3,07,03
+2024-07-03,Debt Not Subject to Limit,Other Debt (-),476,476,476,477,IIIC,Debt Subject to Limit,Balance Transactions,4,2024,4,2024,3,07,03
+2024-07-03,Debt Not Subject to Limit,Unamortized Discount (-),108937,109775,108793,90889,IIIC,Debt Subject to Limit,Balance Transactions,5,2024,4,2024,3,07,03
+2024-07-03,Debt Not Subject to Limit,Federal Financing Bank (-),4514,4514,4514,5492,IIIC,Debt Subject to Limit,Balance Transactions,6,2024,4,2024,3,07,03
+2024-07-03,Other Debt Subject to Limit,Guaranteed Debt of Government Agencies,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,7,2024,4,2024,3,07,03
+2024-07-03,Statutory Debt Limit,null,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,9,2024,4,2024,3,07,03
+2024-07-05,Debt Held by the Public,null,27693475,27696496,27612897,26330142,IIIC,Debt Subject to Limit,Balance Transactions,1,2024,4,2024,3,07,05
+2024-07-05,Intragovernmental Holdings,null,7158726,7151073,7218738,6837192,IIIC,Debt Subject to Limit,Balance Transactions,2,2024,4,2024,3,07,05
+2024-07-05,Debt Not Subject to Limit,Other Debt (-),476,476,476,477,IIIC,Debt Subject to Limit,Balance Transactions,4,2024,4,2024,3,07,05
+2024-07-05,Debt Not Subject to Limit,Unamortized Discount (-),110576,108937,108793,90889,IIIC,Debt Subject to Limit,Balance Transactions,5,2024,4,2024,3,07,05
+2024-07-05,Debt Not Subject to Limit,Federal Financing Bank (-),4514,4514,4514,5492,IIIC,Debt Subject to Limit,Balance Transactions,6,2024,4,2024,3,07,05
+2024-07-05,Other Debt Subject to Limit,Guaranteed Debt of Government Agencies,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,7,2024,4,2024,3,07,05
+2024-07-05,Statutory Debt Limit,null,0,0,0,0,IIIC,Debt Subject to Limit,Balance Transactions,9,2024,4,2024,3,07,05
