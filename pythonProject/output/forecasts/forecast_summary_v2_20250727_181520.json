@@ -1,0 +1,33 @@
+{
+  "timestamp": "20250727_181520",
+  "forecast_period": {
+    "start_date": "2023-12-30",
+    "end_date": "2024-04-27",
+    "total_days": 120
+  },
+  "models_used": [
+    "ARIMA",
+    "RandomForest",
+    "Ensemble"
+  ],
+  "forecast_summary": {
+    "RandomForest": {
+      "mean_usd_millions": 11202.877850368164,
+      "std_usd_millions": 19348.521665222197,
+      "min_usd_millions": -88280.042122807,
+      "max_usd_millions": 29860.67917455101,
+      "positive_days": 108,
+      "negative_days": 12,
+      "positive_percentage": 0.9
+    },
+    "Ensemble": {
+      "mean_usd_millions": 11202.877850368164,
+      "std_usd_millions": 19348.521665222197,
+      "min_usd_millions": -88280.042122807,
+      "max_usd_millions": 29860.67917455101,
+      "positive_days": 108,
+      "negative_days": 12,
+      "positive_percentage": 0.9
+    }
+  }
+}

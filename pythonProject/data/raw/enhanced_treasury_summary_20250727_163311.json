@@ -1,0 +1,22 @@
+{
+  "collection_timestamp": "2025-07-27T16:33:11.719740",
+  "date_range": {
+    "start_date": null,
+    "end_date": null
+  },
+  "datasets_collected": [
+    "operating_cash_balance",
+    "deposits_withdrawals_operating_cash",
+    "public_debt_transactions",
+    "adjustment_public_debt_transactions_cash_basis",
+    "debt_subject_to_limit",
+    "inter_agency_tax_transfers",
+    "income_tax_refunds_issued"
+  ],
+  "tga_balance_records": 499,
+  "categorized_flows": [
+    "deposits",
+    "withdrawals"
+  ],
+  "category_mapping_size": 115
+}
