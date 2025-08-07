@@ -1,0 +1,44 @@
+{
+  "forecast_period": "2025-06-27 00:00:00 to 2025-10-24 00:00:00",
+  "forecast_days": 86,
+  "models_used": [
+    "ARIMA",
+    "SARIMA",
+    "ML_Best",
+    "Ensemble"
+  ],
+  "forecast_statistics": {
+    "ARIMA": {
+      "mean": NaN,
+      "std": NaN,
+      "min": NaN,
+      "max": NaN,
+      "negative_days": 0,
+      "negative_days_pct": 0.0
+    },
+    "SARIMA": {
+      "mean": NaN,
+      "std": NaN,
+      "min": NaN,
+      "max": NaN,
+      "negative_days": 0,
+      "negative_days_pct": 0.0
+    },
+    "ML_Best": {
+      "mean": 3890857058.9018583,
+      "std": 18462743.062023275,
+      "min": 3860025535.038652,
+      "max": 3922978162.5157647,
+      "negative_days": 0,
+      "negative_days_pct": 0.0
+    },
+    "Ensemble": {
+      "mean": 3890857058.9018583,
+      "std": 18462743.062023275,
+      "min": 3860025535.038652,
+      "max": 3922978162.5157647,
+      "negative_days": 0,
+      "negative_days_pct": 0.0
+    }
+  }
+}

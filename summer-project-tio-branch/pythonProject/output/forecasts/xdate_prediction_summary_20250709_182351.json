@@ -1,0 +1,18 @@
+{
+  "timestamp": "20250709_182351",
+  "x_date_prediction": null,
+  "days_to_xdate": null,
+  "initial_conditions": {
+    "current_debt_usd": 36215806064740.36,
+    "current_cash_usd": 500000000000.0,
+    "debt_ceiling_usd": 36100000000000.0,
+    "unconventional_measures_usd": 820000000000.0
+  },
+  "final_state": {
+    "final_debt_usd": 36215806064740.36,
+    "final_cash_usd": 80404271205.45293,
+    "final_headroom_usd": 694290419730.3717,
+    "total_new_debt_issued_usd": 0.0,
+    "total_unconventional_used_usd": 9903515529.268913
+  }
+}

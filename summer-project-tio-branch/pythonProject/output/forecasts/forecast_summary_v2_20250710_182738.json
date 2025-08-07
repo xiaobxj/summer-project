@@ -1,0 +1,43 @@
+{
+  "timestamp": "20250710_182738",
+  "forecast_period": {
+    "start_date": "2025-06-27",
+    "end_date": "2025-07-26",
+    "total_days": 30
+  },
+  "models_used": [
+    "ARIMA",
+    "Seasonal",
+    "RandomForest",
+    "Ensemble"
+  ],
+  "forecast_summary": {
+    "Seasonal": {
+      "mean_usd_millions": 7559.533333333334,
+      "std_usd_millions": 92399.23362077062,
+      "min_usd_millions": -112980.0,
+      "max_usd_millions": 236728.00000000003,
+      "positive_days": 15,
+      "negative_days": 15,
+      "positive_percentage": 0.5
+    },
+    "RandomForest": {
+      "mean_usd_millions": -3419.2658632773,
+      "std_usd_millions": 30130.69598878948,
+      "min_usd_millions": -146126.5057142857,
+      "max_usd_millions": 30119.836069375066,
+      "positive_days": 18,
+      "negative_days": 12,
+      "positive_percentage": 0.6
+    },
+    "Ensemble": {
+      "mean_usd_millions": 2070.133735028018,
+      "std_usd_millions": 50377.41419698701,
+      "min_usd_millions": -101782.25285714286,
+      "max_usd_millions": 132988.40227278278,
+      "positive_days": 16,
+      "negative_days": 14,
+      "positive_percentage": 0.5333333333333333
+    }
+  }
+}

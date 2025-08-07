@@ -1,0 +1,37 @@
+{
+  "timestamp": "20250702_172657",
+  "forecast_methods": [
+    "Simulated",
+    "ARIMA",
+    "Ensemble"
+  ],
+  "statistics": {
+    "Simulated": {
+      "mean": -2722.2509099842564,
+      "std": 30814.516430788997,
+      "min": -75211.31379400683,
+      "max": 67857.8937540784,
+      "positive_days": 54,
+      "negative_days": 66,
+      "valid_data_points": 120
+    },
+    "ARIMA": {
+      "mean": -2187.7307837244425,
+      "std": 211.61496238588396,
+      "min": -2299.896834879446,
+      "max": 109.19759762135072,
+      "positive_days": 1,
+      "negative_days": 119,
+      "valid_data_points": 120
+    },
+    "Ensemble": {
+      "mean": -2454.990846854349,
+      "std": 15412.144690729314,
+      "min": -38708.79517245092,
+      "max": 32825.80860159169,
+      "positive_days": 52,
+      "negative_days": 68,
+      "valid_data_points": 120
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "General Connectivity": {
+    "success": true,
+    "message": "Internet connectivity OK",
+    "timestamp": "2025-07-01T19:58:21.623555"
+  },
+  "Treasury FiscalData API": {
+    "success": false,
+    "message": "HTTP 404: <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <base href=\"/\">\n</head>\n<body>\n\n<h1>404 Error: The requested page could not be found</h1>\n<p>We are sorry, but the page you are looking for may not exist, m",
+    "timestamp": "2025-07-01T19:58:22.690468"
+  },
+  "BEA API": {
+    "success": false,
+    "message": "API key required but not provided",
+    "timestamp": "2025-07-01T19:58:22.690468"
+  },
+  "FRED API": {
+    "success": false,
+    "message": "API key required but not provided",
+    "timestamp": "2025-07-01T19:58:22.690468"
+  },
+  "Bloomberg API": {
+    "success": false,
+    "message": "Bloomberg API module not installed",
+    "timestamp": "2025-07-01T19:58:22.693907"
+  }
+}
