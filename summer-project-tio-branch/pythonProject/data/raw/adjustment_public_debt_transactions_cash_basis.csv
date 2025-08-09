@@ -1,121 +1,4 @@
 record_date,transaction_type,adj_type,adj_type_desc,adj_today_amt,adj_mtd_amt,adj_fytd_amt,table_nbr,table_nm,sub_table_name,src_line_nbr,record_fiscal_year,record_fiscal_quarter,record_calendar_year,record_calendar_quarter,record_calendar_month,record_calendar_day
-2023-07-28,Issues,Public Debt Issues (Table IIIA),null,564237,12328592,113743301,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,07,28
-2023-07-28,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,07,28
-2023-07-28,Issues,Bills (-),Discount on New Issues,0,20051,166643,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,07,28
-2023-07-28,Issues,Bonds and Notes (-),Discount on New Issues,0,2192,23278,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,07,28
-2023-07-28,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,07,28
-2023-07-28,Issues,Government Account Transactions (-),null,562687,10703970,97525399,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,07,28
-2023-07-28,Issues,Interest Increment on United States Savings Securities (-),null,3,767,8007,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,07,28
-2023-07-28,Issues,Inflation-Protected Securities Increment (-),null,152,4510,48918,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,07,28
-2023-07-28,Redemptions,Public Debt Redemptions (Table IIIA),null,566495,12003746,112015092,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,07,28
-2023-07-28,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,07,28
-2023-07-28,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,07,28
-2023-07-28,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,07,28
-2023-07-28,Redemptions,Government Account Transactions (-),null,564799,10671158,97269460,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,07,28
-2023-07-31,Issues,Public Debt Issues (Table IIIA),null,739217,13067809,114482518,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,07,31
-2023-07-31,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,07,31
-2023-07-31,Issues,Bills (-),Discount on New Issues,0,20051,166643,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,07,31
-2023-07-31,Issues,Bonds and Notes (-),Discount on New Issues,774,2965,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,07,31
-2023-07-31,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,07,31
-2023-07-31,Issues,Government Account Transactions (-),null,564870,11268840,98090270,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,07,31
-2023-07-31,Issues,Interest Increment on United States Savings Securities (-),null,1,768,8008,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,07,31
-2023-07-31,Issues,Inflation-Protected Securities Increment (-),null,458,4969,49376,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,07,31
-2023-07-31,Redemptions,Public Debt Redemptions (Table IIIA),null,787753,12791498,112802845,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,07,31
-2023-07-31,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,07,31
-2023-07-31,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,07,31
-2023-07-31,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,07,31
-2023-07-31,Redemptions,Government Account Transactions (-),null,569833,11240991,97839293,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,07,31
-2023-08-01,Issues,Public Debt Issues (Table IIIA),null,741733,741733,115224251,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,01
-2023-08-01,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,01
-2023-08-01,Issues,Bills (-),Discount on New Issues,1607,1607,168250,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,01
-2023-08-01,Issues,Bonds and Notes (-),Discount on New Issues,0,0,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,08,01
-2023-08-01,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,08,01
-2023-08-01,Issues,Government Account Transactions (-),null,558749,558749,98649018,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,08,01
-2023-08-01,Issues,Interest Increment on United States Savings Securities (-),null,682,682,8689,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,08,01
-2023-08-01,Issues,Inflation-Protected Securities Increment (-),null,155,155,49531,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,08,01
-2023-08-01,Redemptions,Public Debt Redemptions (Table IIIA),null,762749,762749,113565593,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,08,01
-2023-08-01,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,08,01
-2023-08-01,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,08,01
-2023-08-01,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,08,01
-2023-08-01,Redemptions,Government Account Transactions (-),null,610736,610736,98450029,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,08,01
-2023-08-02,Issues,Public Debt Issues (Table IIIA),null,565142,1306875,115789393,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,02
-2023-08-02,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,02
-2023-08-02,Issues,Bills (-),Discount on New Issues,0,1607,168250,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,02
-2023-08-02,Issues,Bonds and Notes (-),Discount on New Issues,0,0,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,08,02
-2023-08-02,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,08,02
-2023-08-02,Issues,Government Account Transactions (-),null,563116,1121865,99212135,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,08,02
-2023-08-02,Issues,Interest Increment on United States Savings Securities (-),null,1,683,8690,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,08,02
-2023-08-02,Issues,Inflation-Protected Securities Increment (-),null,198,352,49729,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,08,02
-2023-08-02,Redemptions,Public Debt Redemptions (Table IIIA),null,553359,1316108,114118953,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,08,02
-2023-08-02,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,08,02
-2023-08-02,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,08,02
-2023-08-02,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,08,02
-2023-08-02,Redemptions,Government Account Transactions (-),null,551859,1162596,99001889,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,08,02
-2023-08-03,Issues,Government Account Transactions (-),null,566275,1688140,99778409,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,08,03
-2023-08-03,Issues,Public Debt Issues (Table IIIA),null,757903,2064778,116547296,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,03
-2023-08-03,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,03
-2023-08-03,Issues,Bills (-),Discount on New Issues,3020,4627,171270,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,03
-2023-08-03,Issues,Bonds and Notes (-),Discount on New Issues,0,0,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,08,03
-2023-08-03,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,08,03
-2023-08-03,Issues,Interest Increment on United States Savings Securities (-),null,1,684,8692,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,08,03
-2023-08-03,Issues,Inflation-Protected Securities Increment (-),null,199,551,49927,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,08,03
-2023-08-03,Redemptions,Public Debt Redemptions (Table IIIA),null,752927,2069035,114871880,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,08,03
-2023-08-03,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,08,03
-2023-08-03,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,08,03
-2023-08-03,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,08,03
-2023-08-03,Redemptions,Government Account Transactions (-),null,580062,1742657,99581950,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,08,03
-2023-08-04,Issues,Public Debt Issues (Table IIIA),null,552093,2616871,117099389,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,04
-2023-08-04,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,04
-2023-08-04,Issues,Bills (-),Discount on New Issues,0,4626,171270,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,04
-2023-08-04,Issues,Bonds and Notes (-),Discount on New Issues,0,0,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,08,04
-2023-08-04,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,08,04
-2023-08-04,Issues,Government Account Transactions (-),null,550463,2238603,100328872,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,08,04
-2023-08-04,Issues,Interest Increment on United States Savings Securities (-),null,1,685,8693,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,08,04
-2023-08-04,Issues,Inflation-Protected Securities Increment (-),null,197,749,50125,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,08,04
-2023-08-04,Redemptions,Public Debt Redemptions (Table IIIA),null,553275,2622310,115425154,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,08,04
-2023-08-04,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,08,04
-2023-08-04,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,08,04
-2023-08-04,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,08,04
-2023-08-04,Redemptions,Government Account Transactions (-),null,551766,2294423,100133716,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,08,04
-2023-08-07,Issues,Public Debt Issues (Table IIIA),null,558262,3175132,117657650,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,07
-2023-08-07,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,07
-2023-08-07,Issues,Bills (-),Discount on New Issues,0,4626,171270,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,07
-2023-08-07,Issues,Bonds and Notes (-),Discount on New Issues,0,0,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,08,07
-2023-08-07,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,08,07
-2023-08-07,Issues,Government Account Transactions (-),null,556241,2794844,100885113,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,08,07
-2023-08-07,Issues,Interest Increment on United States Savings Securities (-),null,2,687,8695,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,08,07
-2023-08-07,Issues,Inflation-Protected Securities Increment (-),null,594,1343,50719,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,08,07
-2023-08-07,Redemptions,Public Debt Redemptions (Table IIIA),null,550101,3172411,115975255,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,08,07
-2023-08-07,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,08,07
-2023-08-07,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,08,07
-2023-08-07,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,08,07
-2023-08-07,Redemptions,Government Account Transactions (-),null,548546,2842969,100682262,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,08,07
-2023-08-08,Issues,Public Debt Issues (Table IIIA),null,749069,3924201,118406719,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,08
-2023-08-08,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,08
-2023-08-08,Issues,Bills (-),Discount on New Issues,1607,6233,172876,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,08
-2023-08-08,Issues,Bonds and Notes (-),Discount on New Issues,0,0,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,08,08
-2023-08-08,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,08,08
-2023-08-08,Issues,Government Account Transactions (-),null,565997,3360840,101451110,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,08,08
-2023-08-08,Issues,Interest Increment on United States Savings Securities (-),null,2,689,8697,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,08,08
-2023-08-08,Issues,Inflation-Protected Securities Increment (-),null,199,1541,50918,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,08,08
-2023-08-08,Redemptions,Public Debt Redemptions (Table IIIA),null,716239,3888649,116691494,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,08,08
-2023-08-08,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,08,08
-2023-08-08,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,08,08
-2023-08-08,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,08,08
-2023-08-08,Redemptions,Government Account Transactions (-),null,552183,3395152,101234445,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,08,08
-2023-08-09,Issues,Public Debt Issues (Table IIIA),null,561916,4486118,118968636,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,09
-2023-08-09,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,09
-2023-08-09,Issues,Bills (-),Discount on New Issues,0,6233,172876,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,09
-2023-08-09,Issues,Bonds and Notes (-),Discount on New Issues,0,0,24052,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2023,4,2023,3,08,09
-2023-08-09,Issues,Federal Financing Bank (-),null,0,0,1875,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2023,4,2023,3,08,09
-2023-08-09,Issues,Government Account Transactions (-),null,560321,3921161,102011431,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2023,4,2023,3,08,09
-2023-08-09,Issues,Interest Increment on United States Savings Securities (-),null,2,691,8699,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2023,4,2023,3,08,09
-2023-08-09,Issues,Inflation-Protected Securities Increment (-),null,200,1741,51117,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2023,4,2023,3,08,09
-2023-08-09,Redemptions,Public Debt Redemptions (Table IIIA),null,585123,4473772,117276617,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2023,4,2023,3,08,09
-2023-08-09,Redemptions,Premium on Debt Buyback Operation,null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2023,4,2023,3,08,09
-2023-08-09,Redemptions,Discount on Debt Buyback Operation (-),null,0,0,-2,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2023,4,2023,3,08,09
-2023-08-09,Redemptions,Federal Financing Bank (-),null,0,0,1230,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2023,4,2023,3,08,09
-2023-08-09,Redemptions,Government Account Transactions (-),null,583621,3978773,101818066,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2023,4,2023,3,08,09
 2023-08-10,Issues,Public Debt Issues (Table IIIA),null,803156,5289273,119771791,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2023,4,2023,3,08,10
 2023-08-10,Issues,Premium on New Issues,null,0,0,6645,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2023,4,2023,3,08,10
 2023-08-10,Issues,Bills (-),Discount on New Issues,5310,11543,178186,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2023,4,2023,3,08,10
@@ -6486,3 +6369,133 @@ record_date,transaction_type,adj_type,adj_type_desc,adj_today_amt,adj_mtd_amt,ad
 2025-07-24,Redemptions,Discount on Debt Buyback Operation (-),null,157,820,11145,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,07,24
 2025-07-24,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,07,24
 2025-07-24,Redemptions,Government Account Transactions (-),null,609765,9701891,104763942,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,07,24
+2025-07-25,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,07,25
+2025-07-25,Issues,Public Debt Issues (Table IIIA),null,586939,12726611,130617030,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,07,25
+2025-07-25,Issues,Premium on New Issues,null,0,0,2404,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,07,25
+2025-07-25,Issues,Bills (-),Discount on New Issues,0,20714,219093,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,07,25
+2025-07-25,Issues,Bonds and Notes (-),Discount on New Issues,0,958,18661,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,07,25
+2025-07-25,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,07,25
+2025-07-25,Issues,Government Account Transactions (-),null,585019,10655176,105561548,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,07,25
+2025-07-25,Issues,Interest Increment on United States Savings Securities (-),null,2,350,4382,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,07,25
+2025-07-25,Issues,Inflation-Protected Securities Increment (-),null,137,3544,43326,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,07,25
+2025-07-25,Redemptions,Public Debt Redemptions (Table IIIA),null,575570,12205181,129348804,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,07,25
+2025-07-25,Redemptions,Premium on Debt Buyback Operation,null,0,8,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,07,25
+2025-07-25,Redemptions,Discount on Debt Buyback Operation (-),null,0,820,11145,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,07,25
+2025-07-25,Redemptions,Government Account Transactions (-),null,573844,10275734,105337786,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,07,25
+2025-07-28,Issues,Public Debt Issues (Table IIIA),null,576407,13303018,131193437,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,07,28
+2025-07-28,Issues,Premium on New Issues,null,0,0,2404,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,07,28
+2025-07-28,Issues,Bills (-),Discount on New Issues,0,20714,219093,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,07,28
+2025-07-28,Issues,Bonds and Notes (-),Discount on New Issues,0,958,18661,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,07,28
+2025-07-28,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,07,28
+2025-07-28,Issues,Government Account Transactions (-),null,574355,11229531,106135903,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,07,28
+2025-07-28,Issues,Interest Increment on United States Savings Securities (-),null,3,353,4384,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,07,28
+2025-07-28,Issues,Inflation-Protected Securities Increment (-),null,408,3952,43734,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,07,28
+2025-07-28,Redemptions,Public Debt Redemptions (Table IIIA),null,574381,12779561,129923185,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,07,28
+2025-07-28,Redemptions,Premium on Debt Buyback Operation,null,0,8,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,07,28
+2025-07-28,Redemptions,Discount on Debt Buyback Operation (-),null,0,820,11145,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,07,28
+2025-07-28,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,07,28
+2025-07-28,Redemptions,Government Account Transactions (-),null,572601,10848335,105910387,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,07,28
+2025-07-29,Issues,Public Debt Issues (Table IIIA),null,937847,14240865,132131284,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,07,29
+2025-07-29,Issues,Premium on New Issues,null,0,0,2404,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,07,29
+2025-07-29,Issues,Bills (-),Discount on New Issues,1790,22505,220884,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,07,29
+2025-07-29,Issues,Bonds and Notes (-),Discount on New Issues,0,958,18661,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,07,29
+2025-07-29,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,07,29
+2025-07-29,Issues,Government Account Transactions (-),null,684018,11913549,106819921,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,07,29
+2025-07-29,Issues,Interest Increment on United States Savings Securities (-),null,2,355,4387,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,07,29
+2025-07-29,Issues,Inflation-Protected Securities Increment (-),null,134,4086,43869,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,07,29
+2025-07-29,Redemptions,Public Debt Redemptions (Table IIIA),null,868935,13648497,130792120,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,07,29
+2025-07-29,Redemptions,Premium on Debt Buyback Operation,null,0,8,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,07,29
+2025-07-29,Redemptions,Discount on Debt Buyback Operation (-),null,0,820,11145,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,07,29
+2025-07-29,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,07,29
+2025-07-29,Redemptions,Government Account Transactions (-),null,676611,11524947,106586998,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,07,29
+2025-07-30,Issues,Public Debt Issues (Table IIIA),null,572832,14813697,132704116,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,07,30
+2025-07-30,Issues,Premium on New Issues,null,0,0,2404,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,07,30
+2025-07-30,Issues,Bills (-),Discount on New Issues,0,22505,220884,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,07,30
+2025-07-30,Issues,Bonds and Notes (-),Discount on New Issues,0,958,18661,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,07,30
+2025-07-30,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,07,30
+2025-07-30,Issues,Government Account Transactions (-),null,570824,12484373,107390744,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,07,30
+2025-07-30,Issues,Interest Increment on United States Savings Securities (-),null,1,356,4388,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,07,30
+2025-07-30,Issues,Inflation-Protected Securities Increment (-),null,139,4225,44007,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,07,30
+2025-07-30,Redemptions,Public Debt Redemptions (Table IIIA),null,574429,14222926,131366549,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,07,30
+2025-07-30,Redemptions,Premium on Debt Buyback Operation,null,0,8,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,07,30
+2025-07-30,Redemptions,Discount on Debt Buyback Operation (-),null,0,820,11145,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,07,30
+2025-07-30,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,07,30
+2025-07-30,Redemptions,Government Account Transactions (-),null,572416,12097362,107159414,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,07,30
+2025-07-31,Issues,Public Debt Issues (Table IIIA),null,1175561,15989258,133879677,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,07,31
+2025-07-31,Issues,Premium on New Issues,null,111,111,2515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,07,31
+2025-07-31,Issues,Bills (-),Discount on New Issues,2964,25469,223847,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,07,31
+2025-07-31,Issues,Bonds and Notes (-),Discount on New Issues,909,1867,19569,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,07,31
+2025-07-31,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,07,31
+2025-07-31,Issues,Government Account Transactions (-),null,658102,13142475,108048846,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,07,31
+2025-07-31,Issues,Interest Increment on United States Savings Securities (-),null,2,358,4390,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,07,31
+2025-07-31,Issues,Inflation-Protected Securities Increment (-),null,137,4362,44144,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,07,31
+2025-07-31,Redemptions,Public Debt Redemptions (Table IIIA),null,1060814,15283740,132427363,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,07,31
+2025-07-31,Redemptions,Premium on Debt Buyback Operation,null,0,8,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,07,31
+2025-07-31,Redemptions,Discount on Debt Buyback Operation (-),null,0,820,11145,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,07,31
+2025-07-31,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,07,31
+2025-07-31,Redemptions,Government Account Transactions (-),null,651672,12749034,107811086,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,07,31
+2025-08-01,Issues,Public Debt Issues (Table IIIA),null,593550,593550,134473227,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,08,01
+2025-08-01,Issues,Premium on New Issues,null,0,0,2515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,08,01
+2025-08-01,Issues,Bills (-),Discount on New Issues,0,0,223847,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,08,01
+2025-08-01,Issues,Bonds and Notes (-),Discount on New Issues,0,0,19569,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,08,01
+2025-08-01,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,08,01
+2025-08-01,Issues,Government Account Transactions (-),null,591303,591303,108640149,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,08,01
+2025-08-01,Issues,Interest Increment on United States Savings Securities (-),null,322,322,4712,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,08,01
+2025-08-01,Issues,Inflation-Protected Securities Increment (-),null,138,138,44282,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,08,01
+2025-08-01,Redemptions,Public Debt Redemptions (Table IIIA),null,683635,683635,133110998,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,08,01
+2025-08-01,Redemptions,Premium on Debt Buyback Operation,null,0,0,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,08,01
+2025-08-01,Redemptions,Discount on Debt Buyback Operation (-),null,370,370,11515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,08,01
+2025-08-01,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,08,01
+2025-08-01,Redemptions,Government Account Transactions (-),null,672164,672164,108483250,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,08,01
+2025-08-04,Issues,Public Debt Issues (Table IIIA),null,586110,1179661,135059337,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,08,04
+2025-08-04,Issues,Premium on New Issues,null,0,0,2515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,08,04
+2025-08-04,Issues,Bills (-),Discount on New Issues,0,0,223847,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,08,04
+2025-08-04,Issues,Bonds and Notes (-),Discount on New Issues,0,0,19569,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,08,04
+2025-08-04,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,08,04
+2025-08-04,Issues,Government Account Transactions (-),null,583637,1174940,109223786,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,08,04
+2025-08-04,Issues,Interest Increment on United States Savings Securities (-),null,2,323,4714,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,08,04
+2025-08-04,Issues,Inflation-Protected Securities Increment (-),null,677,815,44959,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,08,04
+2025-08-04,Redemptions,Public Debt Redemptions (Table IIIA),null,574848,1258483,133685846,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,08,04
+2025-08-04,Redemptions,Premium on Debt Buyback Operation,null,0,0,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,08,04
+2025-08-04,Redemptions,Discount on Debt Buyback Operation (-),null,0,370,11515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,08,04
+2025-08-04,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,08,04
+2025-08-04,Redemptions,Government Account Transactions (-),null,573023,1245188,109056273,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,08,04
+2025-08-05,Issues,Public Debt Issues (Table IIIA),null,937676,2117337,135997014,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,08,05
+2025-08-05,Issues,Premium on New Issues,null,0,0,2515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,08,05
+2025-08-05,Issues,Bills (-),Discount on New Issues,1794,1794,225641,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,08,05
+2025-08-05,Issues,Bonds and Notes (-),Discount on New Issues,0,0,19569,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,08,05
+2025-08-05,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,08,05
+2025-08-05,Issues,Government Account Transactions (-),null,684586,1859526,109908372,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,08,05
+2025-08-05,Issues,Interest Increment on United States Savings Securities (-),null,1,324,4714,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,08,05
+2025-08-05,Issues,Inflation-Protected Securities Increment (-),null,225,1040,45184,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,08,05
+2025-08-05,Redemptions,Public Debt Redemptions (Table IIIA),null,845389,2103872,134531235,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,08,05
+2025-08-05,Redemptions,Premium on Debt Buyback Operation,null,0,0,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,08,05
+2025-08-05,Redemptions,Discount on Debt Buyback Operation (-),null,0,370,11515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,08,05
+2025-08-05,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,08,05
+2025-08-05,Redemptions,Government Account Transactions (-),null,668345,1913533,109724619,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,08,05
+2025-08-06,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,08,06
+2025-08-06,Issues,Public Debt Issues (Table IIIA),null,589258,2706595,136586271,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,08,06
+2025-08-06,Issues,Premium on New Issues,null,0,0,2515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,08,06
+2025-08-06,Issues,Bills (-),Discount on New Issues,0,1794,225641,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,08,06
+2025-08-06,Issues,Bonds and Notes (-),Discount on New Issues,0,0,19569,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,08,06
+2025-08-06,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,08,06
+2025-08-06,Issues,Government Account Transactions (-),null,587037,2446563,110495409,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,08,06
+2025-08-06,Issues,Interest Increment on United States Savings Securities (-),null,2,326,4716,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,08,06
+2025-08-06,Issues,Inflation-Protected Securities Increment (-),null,226,1266,45410,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,08,06
+2025-08-06,Redemptions,Public Debt Redemptions (Table IIIA),null,569250,2673122,135100485,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,08,06
+2025-08-06,Redemptions,Premium on Debt Buyback Operation,null,0,0,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,08,06
+2025-08-06,Redemptions,Discount on Debt Buyback Operation (-),null,0,370,11515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,08,06
+2025-08-06,Redemptions,Government Account Transactions (-),null,567455,2480989,110292074,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,08,06
+2025-08-07,Issues,Public Debt Issues (Table IIIA),null,949968,3656563,137536240,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,1,2025,4,2025,3,08,07
+2025-08-07,Issues,Premium on New Issues,null,0,0,2515,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,2,2025,4,2025,3,08,07
+2025-08-07,Issues,Bills (-),Discount on New Issues,4919,6713,230561,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,3,2025,4,2025,3,08,07
+2025-08-07,Issues,Bonds and Notes (-),Discount on New Issues,0,0,19569,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,4,2025,4,2025,3,08,07
+2025-08-07,Issues,Federal Financing Bank (-),null,0,0,0,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,5,2025,4,2025,3,08,07
+2025-08-07,Issues,Government Account Transactions (-),null,639919,3086482,111135328,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,6,2025,4,2025,3,08,07
+2025-08-07,Issues,Interest Increment on United States Savings Securities (-),null,1,327,4717,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,7,2025,4,2025,3,08,07
+2025-08-07,Issues,Inflation-Protected Securities Increment (-),null,227,1492,45636,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,8,2025,4,2025,3,08,07
+2025-08-07,Redemptions,Public Debt Redemptions (Table IIIA),null,904222,3577344,136004708,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,10,2025,4,2025,3,08,07
+2025-08-07,Redemptions,Premium on Debt Buyback Operation,null,0,0,244,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,11,2025,4,2025,3,08,07
+2025-08-07,Redemptions,Discount on Debt Buyback Operation (-),null,182,552,11697,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,12,2025,4,2025,3,08,07
+2025-08-07,Redemptions,Federal Financing Bank (-),null,0,0,421,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,13,2025,4,2025,3,08,07
+2025-08-07,Redemptions,Government Account Transactions (-),null,634998,3115986,110927072,IIIB,Adjustment of Public Debt Transactions to Cash Basis,null,14,2025,4,2025,3,08,07

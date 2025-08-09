@@ -1,9 +1,10 @@
 """
-Enhanced Treasury Data Collector - Extended DTS Data Collection
-整合用户提供的详细Treasury API数据收集功能
-结合现有系统的改进版本
-
-基于原有treasury_data_collector.py扩展，增加更详细的现金流分析数据
+Enhanced Treasury Data Collector - Extended DTS Data Collection (Fixed)
+- Fix TGA balance field (use close_today_bal for Closing Balance)
+- Deduplicate category mapping keys (e.g., GSA)
+- Exclude subtotal/transfer lines before categorization to avoid double-counting
+- Unify dtype conversions (dates and numeric)
+- Add unmapped-category diagnostics
 """
 
 import requests
@@ -18,31 +19,19 @@ import numpy as np
 
 
 class EnhancedTreasuryCollector:
-    """增强版Treasury数据收集器 - 包含详细的DTS分类数据"""
+    """Enhanced Treasury Data Collector - Contains detailed DTS categorized data"""
     
     def __init__(self, data_dir: str = "./data/raw"):
-        """
-        初始化收集器
-        
-        Args:
-            data_dir: 数据存储目录
-        """
         self.data_dir = Path(data_dir)
         self.data_dir.mkdir(parents=True, exist_ok=True)
-        
-        # API基础URL
         self.base_url = "https://api.fiscaldata.treasury.gov/services/api/fiscal_service"
-        
-        # 请求头设置
         self.headers = {
-            'User-Agent': 'Enhanced-Treasury-Collector/2.0 (Research)',
+            'User-Agent': 'Enhanced-Treasury-Collector/2.1 (Research)',
             'Accept': 'application/json'
         }
-        
-        # API限速
         self.request_delay = 0.5
         
-        # 详细数据端点配置
+        # DTS endpoints
         self.detailed_endpoints = {
             'operating_cash_balance': 'v1/accounting/dts/operating_cash_balance',
             'deposits_withdrawals_operating_cash': 'v1/accounting/dts/deposits_withdrawals_operating_cash',
@@ -55,12 +44,12 @@ class EnhancedTreasuryCollector:
             'short_term_cash_investments': 'v1/accounting/dts/short_term_cash_investments'
         }
         
-        # 交易分类映射
         self.category_mapping = self._get_transaction_categories()
     
+    # ---------- Category Mapping ----------
     def _get_transaction_categories(self) -> Dict[str, str]:
-        """获取交易分类映射"""
-        return {
+        """Transaction category -> high-level group (deduplicated)"""
+        mapping = {
             # Social Security & Retirement
             'SSA - Benefits Payments': 'Social Security & Retirement',
             'SSA - Supplemental Security Income': 'Social Security & Retirement',
@@ -115,7 +104,7 @@ class EnhancedTreasuryCollector:
             'Dept of Veterans Affairs (VA)': 'Federal Salaries & Ops',
             'VA - Benefits': 'Federal Salaries & Ops',
             'Environmental Protection Agency (EPA)': 'Federal Salaries & Ops',
-            'General Services Administration (GSA)': 'Federal Salaries & Ops',
+            'General Services Administration (GSA)': 'Federal Salaries & Ops',  # keep here only
             'Independent Agencies - misc': 'Federal Salaries & Ops',
             'Judicial Branch - Courts': 'Federal Salaries & Ops',
             'Justice Department programs': 'Federal Salaries & Ops',
@@ -175,7 +164,6 @@ class EnhancedTreasuryCollector:
             'Farm Credit System Insurance Cor (FCSIC)': 'Financial & Special',
             'National Credit Union Admin (NCUA)': 'Financial & Special',
             'Federal Reserve Earnings': 'Financial & Special',
-            'General Services Administration (GSA)': 'Financial & Special',
             'Emergency Capital Investment Program': 'Financial & Special',
             'ESF - Economic Recovery Programs': 'Financial & Special',
             'TREAS - Federal Financing Bank': 'Financial & Special',
@@ -190,212 +178,227 @@ class EnhancedTreasuryCollector:
             'Public Debt Cash Issues (Table IIIB)': 'Financial & Special',
             'TREAS - GSE Proceeds': 'Financial & Special',
 
-            # Other
+            # Other (non-subtotal items only)
             'Other Deposits': 'Other',
             'Unclassified - Deposits': 'Other',
-            'Change in Balance of Uncollected Funds': 'Other',
-            'Transfers to Depositaries': 'Other',
-            'Transfers from Depositaries': 'Other',
-            'Sub-Total Deposits': 'Other',
-            'Sub-Total Withdrawals': 'Other',
         }
+        return mapping
+
+    def _get_subtotal_categories(self) -> List[str]:
+        """Subtotal/transfer categories to exclude (avoid double-counting)"""
+        return [
+            'Sub-Total Deposits',
+            'Sub-Total Withdrawals', 
+            'Transfers to Depositaries',
+            'Transfers from Depositaries',
+            'Change in Balance of Uncollected Funds'
+        ]
     
+    def _filter_detail_transactions(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Remove subtotal/transfer lines (detail-only)"""
+        if df.empty or 'transaction_catg' not in df.columns:
+            return df
+        subtotal_categories = self._get_subtotal_categories()
+        return df[~df['transaction_catg'].isin(subtotal_categories)].copy()
+
+    # ---------- Networking ----------
     def _make_paginated_request(self, endpoint: str, params: Dict[str, Any] = None) -> pd.DataFrame:
-        """
-        发送分页API请求并获取所有数据
-        
-        Args:
-            endpoint: API端点
-            params: 请求参数
-            
-        Returns:
-            完整数据的DataFrame
-        """
         if params is None:
             params = {}
-        
-        # 设置分页参数
         params.setdefault('page[size]', 1000)
-        
-        all_data = []
-        page_number = 1
+        all_data, page_number = [], 1
         
         while True:
             params["page[number]"] = page_number
-            
             try:
                 url = f"{self.base_url}/{endpoint}"
-                response = requests.get(url, headers=self.headers, params=params)
+                response = requests.get(url, headers=self.headers, params=params, timeout=60)
                 response.raise_for_status()
-                
                 data = response.json()
                 records = data.get("data", [])
-                
                 if not records:
                     break
-                
                 all_data.extend(records)
-                
-                # 检查是否有下一页
                 if data.get("links", {}).get("next"):
                     page_number += 1
                 else:
                     break
-                
-                # 添加延迟避免限速
                 time.sleep(self.request_delay)
-                
             except requests.exceptions.RequestException as e:
-                logging.error(f"API请求失败: {e}")
+                logging.error(f"API request failed: {e}")
                 break
         
-        return pd.DataFrame(all_data)
-    
+        df = pd.DataFrame(all_data)
+        # Standardize dtypes
+        if 'record_date' in df.columns:
+            df['record_date'] = pd.to_datetime(df['record_date'], errors='coerce')
+        for col in df.columns:
+            if ('amt' in col) or ('bal' in col):
+                df[col] = pd.to_numeric(df[col], errors='coerce')
+        return df
+
+    # ---------- Collection ----------
     def collect_detailed_cash_flows(self, start_date: str = None, end_date: str = None) -> Dict[str, pd.DataFrame]:
-        """
-        收集详细的现金流数据 - 核心功能
-        
-        Args:
-            start_date: 开始日期 (YYYY-MM-DD)
-            end_date: 结束日期 (YYYY-MM-DD)
-            
-        Returns:
-            包含所有详细现金流数据的字典
-        """
-        logging.info("开始收集详细Treasury现金流数据...")
-        
-        # 设置默认日期范围
+        logging.info("Starting detailed Treasury cash flow data collection...")
         if end_date is None:
             end_date = datetime.now().strftime('%Y-%m-%d')
         if start_date is None:
             start_date = (datetime.now() - timedelta(days=730)).strftime('%Y-%m-%d')
         
         collected_data = {}
-        
         for data_name, endpoint in self.detailed_endpoints.items():
-            logging.info(f"收集 {data_name} 数据...")
-            
+            logging.info(f"Collecting {data_name} ...")
             try:
-                # 设置日期过滤参数
                 params = {}
-                if 'record_date' in endpoint or 'dts' in endpoint:
+                if 'dts' in endpoint:  # DTS datasets have record_date
                     params['filter'] = f'record_date:gte:{start_date},record_date:lte:{end_date}'
                     params['sort'] = 'record_date'
-                
-                # 获取数据
                 df = self._make_paginated_request(endpoint, params)
-                
+
                 if not df.empty:
-                    # 转换数值列
-                    for col in df.columns:
-                        if 'amt' in col or 'bal' in col:
-                            df[col] = pd.to_numeric(df[col], errors='coerce')
-                    
-                    # 保存到文件
-                    filename = f"{data_name}.csv"
-                    filepath = self.data_dir / filename
+                    # Save raw
+                    filepath = self.data_dir / f"{data_name}.csv"
                     df.to_csv(filepath, index=False)
-                    
                     collected_data[data_name] = df
-                    logging.info(f"✅ {data_name}: {len(df)} 行数据已保存")
+                    logging.info(f"✅ {data_name}: {len(df)} rows saved")
                 else:
-                    logging.warning(f"❌ {data_name}: 未获取到数据")
-                    
+                    logging.warning(f"❌ {data_name}: No data")
             except Exception as e:
-                logging.error(f"❌ {data_name} 数据收集失败: {e}")
-        
+                logging.error(f"❌ {data_name} data collection failed: {e}")
         return collected_data
-    
+
+    # ---------- Analysis ----------
     def analyze_tga_balance(self, data: Dict[str, pd.DataFrame]) -> pd.DataFrame:
-        """分析Treasury General Account余额"""
+        """TGA Closing Balance time series (use close_today_bal)"""
         if 'operating_cash_balance' not in data:
             return pd.DataFrame()
-        
         df = data['operating_cash_balance'].copy()
-        
-        # 筛选TGA余额数据
-        tga_df = df[
-            df['account_type'] == 'Treasury General Account (TGA) Closing Balance'
-        ].copy()
-        
+        tga_df = df[df['account_type'] == 'Treasury General Account (TGA) Closing Balance'].copy()
         if tga_df.empty:
             return pd.DataFrame()
-        
-        # 数据处理
-        tga_df['record_date'] = pd.to_datetime(tga_df['record_date'])
-        tga_df['tga_balance'] = pd.to_numeric(tga_df['open_today_bal'], errors='coerce')
         tga_df = tga_df.sort_values('record_date')
-        
+        # FIX: use closing balance field
+        if 'close_today_bal' in tga_df.columns:
+            tga_df['tga_balance'] = pd.to_numeric(tga_df['close_today_bal'], errors='coerce')
+        else:
+            # fallback: if close_today_bal absent, keep previous behavior
+            tga_df['tga_balance'] = pd.to_numeric(tga_df.get('open_today_bal'), errors='coerce')
         return tga_df[['record_date', 'tga_balance']].copy()
-    
+
     def categorize_cash_flows(self, data: Dict[str, pd.DataFrame]) -> Dict[str, pd.DataFrame]:
-        """对现金流进行分类处理"""
+        """Categorize TGA deposits/withdrawals (detail-only; excludes subtotals/transfers)"""
         result = {}
+        if 'deposits_withdrawals_operating_cash' not in data:
+            return result
         
-        if 'deposits_withdrawals_operating_cash' in data:
-            df = data['deposits_withdrawals_operating_cash'].copy()
-            
-            # 分离存款和提款
-            deposits_df = df[
-                (df['account_type'] == 'Treasury General Account (TGA)') &
-                (df['transaction_type'] == 'Deposits')
-            ].copy()
-            
-            withdrawals_df = df[
-                (df['account_type'] == 'Treasury General Account (TGA)') &
-                (df['transaction_type'] == 'Withdrawals')
-            ].copy()
-            
-            # 添加分类
-            for df_subset, name in [(deposits_df, 'deposits'), (withdrawals_df, 'withdrawals')]:
-                if not df_subset.empty:
-                    df_subset['transaction_group'] = df_subset['transaction_catg'].map(
-                        self.category_mapping
-                    ).fillna('Other')
-                    result[name] = df_subset
-        
+        df = data['deposits_withdrawals_operating_cash'].copy()
+        # TGA only
+        tga = df[df['account_type'] == 'Treasury General Account (TGA)'].copy()
+        if tga.empty:
+            return result
+
+        # Exclude subtotal/transfer BEFORE categorization
+        tga = self._filter_detail_transactions(tga)
+
+        # Split by type
+        for txn_type, name in [('Deposits', 'deposits'), ('Withdrawals', 'withdrawals')]:
+            sub = tga[tga['transaction_type'] == txn_type].copy()
+            if sub.empty:
+                continue
+            sub['transaction_group'] = sub['transaction_catg'].map(self.category_mapping).fillna('Other')
+            result[name] = sub
+
+        # Diagnostics: unmapped categories (optional)
+        unmapped = sorted(set(tga['transaction_catg']) - set(self.category_mapping.keys()))
+        if unmapped:
+            logging.info(f"ℹ️ Unmapped categories (showing up to 20): {unmapped[:20]}")
         return result
-    
+
+    def check_subtotal_presence(self, data: Dict[str, pd.DataFrame]) -> Dict[str, Any]:
+        """Check how big subtotals/transfers are in raw D/W (for debugging)"""
+        result = {
+            'subtotal_categories_found': [],
+            'subtotal_records_count': 0,
+            'total_records_count': 0
+        }
+        if 'deposits_withdrawals_operating_cash' not in data:
+            return result
+        
+        df = data['deposits_withdrawals_operating_cash']
+        subtotal_categories = self._get_subtotal_categories()
+        found_subtotals = df[df['transaction_catg'].isin(subtotal_categories)]
+        if not found_subtotals.empty:
+            result['subtotal_categories_found'] = found_subtotals['transaction_catg'].unique().tolist()
+            result['subtotal_records_count'] = len(found_subtotals)
+            if 'transaction_today_amt' in found_subtotals.columns:
+                subtotal_impact = found_subtotals.groupby(['record_date', 'transaction_type'])['transaction_today_amt'].sum()
+                impact_dict = {}
+                for (date, txn_type), amount in subtotal_impact.head(10).items():
+                    key = f"{pd.to_datetime(date).date()}_{txn_type}"
+                    impact_dict[key] = float(amount)
+                result['daily_subtotal_amounts'] = impact_dict
+        result['total_records_count'] = len(df)
+        return result
+
+    def generate_daily_cash_flows_file(self, raw_data: Dict[str, pd.DataFrame]) -> bool:
+        """Generate daily cash flows file for forecasting models"""
+        if 'deposits_withdrawals_operating_cash' not in raw_data:
+            logging.warning("⚠️ No deposits/withdrawals data available for daily cash flows generation")
+            return False
+        
+        df = raw_data['deposits_withdrawals_operating_cash']
+        # Filter for TGA only
+        tga_data = df[df['account_type'] == 'Treasury General Account (TGA)'].copy()
+        
+        if tga_data.empty:
+            logging.warning("⚠️ No TGA data found for daily cash flows generation")
+            return False
+        
+        # Convert and clean data
+        tga_data['record_date'] = pd.to_datetime(tga_data['record_date'])
+        tga_data['transaction_today_amt'] = pd.to_numeric(tga_data['transaction_today_amt'], errors='coerce')
+        tga_data = tga_data.dropna(subset=['transaction_today_amt'])
+        
+        # Create daily summary
+        daily_summary = tga_data.groupby(['record_date', 'transaction_type'])['transaction_today_amt'].sum().reset_index()
+        
+        # Save to file
+        output_file = self.data_dir / "daily_cash_flows_2023-06-29_to_2025-06-28.csv"
+        daily_summary.to_csv(output_file, index=False)
+        
+        logging.info(f"✅ Daily cash flows file generated: {len(daily_summary)} records saved")
+        return True
+
     def collect_all_enhanced_data(self, start_date: str = None, end_date: str = None) -> Dict[str, Any]:
-        """
-        收集所有增强Treasury数据
-        
-        Args:
-            start_date: 开始日期 (YYYY-MM-DD)
-            end_date: 结束日期 (YYYY-MM-DD)
-            
-        Returns:
-            包含所有数据和分析结果的字典
-        """
-        logging.info("开始增强Treasury数据收集和分析...")
-        
-        # 收集原始数据
+        logging.info("Starting enhanced Treasury data collection and analysis...")
         raw_data = self.collect_detailed_cash_flows(start_date, end_date)
-        
-        # 分析TGA余额
         tga_balance = self.analyze_tga_balance(raw_data)
-        
-        # 分类现金流
         categorized_flows = self.categorize_cash_flows(raw_data)
+        subtotal_check = self.check_subtotal_presence(raw_data)
         
-        # 保存收集摘要
+        # Generate daily cash flows file for forecasting models
+        daily_flows_created = self.generate_daily_cash_flows_file(raw_data)
+        
         summary = {
             'collection_timestamp': datetime.now().isoformat(),
-            'date_range': {
-                'start_date': start_date,
-                'end_date': end_date
-            },
+            'date_range': {'start_date': start_date, 'end_date': end_date},
             'datasets_collected': list(raw_data.keys()),
-            'tga_balance_records': len(tga_balance),
+            'tga_balance_records': int(len(tga_balance)) if isinstance(tga_balance, pd.DataFrame) else 0,
             'categorized_flows': list(categorized_flows.keys()),
-            'category_mapping_size': len(self.category_mapping)
+            'category_mapping_size': len(self.category_mapping),
+            'subtotal_check': subtotal_check,
+            'daily_cash_flows_generated': daily_flows_created
         }
-        
-        # 保存摘要
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         summary_file = self.data_dir / f"enhanced_treasury_summary_{timestamp}.json"
         with open(summary_file, 'w') as f:
             json.dump(summary, f, indent=2)
+        
+        if subtotal_check.get('subtotal_records_count', 0) > 0:
+            logging.info(f"✅ Filtered subtotals/transfers exist in raw data (count={subtotal_check['subtotal_records_count']}).")
+            logging.info(f"   Categories: {subtotal_check['subtotal_categories_found']}")
+        else:
+            logging.info("ℹ️  No subtotal/transfer records found in raw D/W data.")
         
         return {
             'raw_data': raw_data,
@@ -406,48 +409,34 @@ class EnhancedTreasuryCollector:
 
 
 def main():
-    """主函数 - 演示增强Treasury数据收集器的使用"""
-    
-    # 设置日志
-    logging.basicConfig(
-        level=logging.INFO,
-        format='%(asctime)s - %(levelname)s - %(message)s'
-    )
-    
-    # 创建收集器
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     collector = EnhancedTreasuryCollector()
-    
-    # 设置日期范围（最近2年数据）
     end_date = datetime.now().strftime('%Y-%m-%d')
     start_date = (datetime.now() - timedelta(days=730)).strftime('%Y-%m-%d')
     
-    print(f"🚀 开始增强Treasury数据收集...")
-    print(f"📅 日期范围: {start_date} 到 {end_date}")
+    print(f"🚀 Starting enhanced Treasury data collection...")
+    print(f"📅 Date range: {start_date} to {end_date}")
     print("=" * 60)
     
-    # 收集所有数据
     all_data = collector.collect_all_enhanced_data(start_date, end_date)
     
-    # 显示收集结果
-    print("\n✅ 数据收集完成!")
+    print("\n✅ Data collection completed!")
     print("=" * 60)
-    
     raw_data = all_data['raw_data']
     for name, df in raw_data.items():
         if isinstance(df, pd.DataFrame) and not df.empty:
-            print(f"📊 {name}: {len(df)} 行数据")
+            print(f"📊 {name}: {len(df)} rows of data")
         else:
-            print(f"❌ {name}: 无数据")
+            print(f"❌ {name}: No data")
     
     tga_balance = all_data['tga_balance']
-    if not tga_balance.empty:
-        print(f"💰 TGA余额记录: {len(tga_balance)} 条")
+    if isinstance(tga_balance, pd.DataFrame) and not tga_balance.empty:
+        print(f"💰 TGA balance records: {len(tga_balance)} entries")
     
     categorized_flows = all_data['categorized_flows']
-    print(f"🏷️  分类现金流: {list(categorized_flows.keys())}")
-    
-    print(f"\n📁 所有数据已保存到: {collector.data_dir}")
+    print(f"🏷️  Categorized cash flows: {list(categorized_flows.keys())}")
+    print(f"\n📁 All data saved to: {collector.data_dir}")
 
 
 if __name__ == "__main__":
-    main() 
+    main()

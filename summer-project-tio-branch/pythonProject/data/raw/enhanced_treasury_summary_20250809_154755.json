@@ -1,0 +1,43 @@
+{
+  "collection_timestamp": "2025-08-09T15:47:55.348806",
+  "date_range": {
+    "start_date": null,
+    "end_date": null
+  },
+  "datasets_collected": [
+    "operating_cash_balance",
+    "deposits_withdrawals_operating_cash",
+    "public_debt_transactions",
+    "adjustment_public_debt_transactions_cash_basis",
+    "debt_subject_to_limit",
+    "inter_agency_tax_transfers",
+    "income_tax_refunds_issued"
+  ],
+  "tga_balance_records": 500,
+  "categorized_flows": [
+    "deposits",
+    "withdrawals"
+  ],
+  "category_mapping_size": 110,
+  "subtotal_check": {
+    "subtotal_categories_found": [
+      "Sub-Total Deposits",
+      "Sub-Total Withdrawals"
+    ],
+    "subtotal_records_count": 72,
+    "total_records_count": 90862,
+    "daily_subtotal_amounts": {
+      "2023-08-10_Deposits": 5769.0,
+      "2023-08-10_Withdrawals": 16453.0,
+      "2023-08-11_Deposits": 12244.0,
+      "2023-08-11_Withdrawals": 10859.0,
+      "2023-08-14_Deposits": 24981.0,
+      "2023-08-14_Withdrawals": 13158.0,
+      "2023-08-15_Deposits": 11572.0,
+      "2023-08-15_Withdrawals": 75169.0,
+      "2023-08-16_Deposits": 25382.0,
+      "2023-08-16_Withdrawals": 39316.0
+    }
+  },
+  "daily_cash_flows_generated": true
+}
